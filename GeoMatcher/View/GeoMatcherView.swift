@@ -86,7 +86,7 @@ struct GeoMatcherView: View {
                     }
             }
             withAnimation(Animation.linear(duration: DrawingConstants.shuffleDuration)
-                .delay(10 + DrawingConstants.dealCardDelay * Double(startingPairs))) {
+                .delay(DrawingConstants.restartDelay + DrawingConstants.dealCardDelay * Double(startingPairs))) {
                 game.shuffle()
             }
         }
