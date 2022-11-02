@@ -9,9 +9,12 @@ import SwiftUI
 
 @main
 struct GeoMatcherApp: App {
+    @StateObject private var game = GeoMatcherViewModel(elementTypes: (.flag, .country))
+    
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .environmentObject(game)
         }
     }
 }
