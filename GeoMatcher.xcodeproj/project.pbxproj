@@ -7,6 +7,17 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		393C88B02911105300861CCB /* Country.swift in Sources */ = {isa = PBXBuildFile; fileRef = 393C88AF2911105300861CCB /* Country.swift */; };
+		393C88B22911107300861CCB /* ElementType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 393C88B12911107300861CCB /* ElementType.swift */; };
+		393C88B4291111B700861CCB /* GeoMatcher.swift in Sources */ = {isa = PBXBuildFile; fileRef = 393C88B3291111B700861CCB /* GeoMatcher.swift */; };
+		393C88B62911127E00861CCB /* GeoMatcherViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 393C88B52911127E00861CCB /* GeoMatcherViewModel.swift */; };
+		393C88B829112BEF00861CCB /* countryData.json in Resources */ = {isa = PBXBuildFile; fileRef = 393C88B729112BEF00861CCB /* countryData.json */; };
+		393C88C12911F9A400861CCB /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = 393C88C02911F9A400861CCB /* Card.swift */; };
+		393C88C32912066300861CCB /* GeoMatcherView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 393C88C22912066300861CCB /* GeoMatcherView.swift */; };
+		393C88C7291207D500861CCB /* AspectVGrid.swift in Sources */ = {isa = PBXBuildFile; fileRef = 393C88C6291207D500861CCB /* AspectVGrid.swift */; };
+		393C88C92912085600861CCB /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 393C88C82912085600861CCB /* CardView.swift */; };
+		393C88CB29120DF800861CCB /* CardAnimator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 393C88CA29120DF700861CCB /* CardAnimator.swift */; };
+		393C88CD2912693800861CCB /* ScoreView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 393C88CC2912693800861CCB /* ScoreView.swift */; };
 		3966C34E290B6EBC00A44B68 /* GeoMatcherApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3966C34D290B6EBC00A44B68 /* GeoMatcherApp.swift */; };
 		3966C350290B6EBC00A44B68 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3966C34F290B6EBC00A44B68 /* ContentView.swift */; };
 		3966C352290B6EBE00A44B68 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3966C351290B6EBE00A44B68 /* Assets.xcassets */; };
@@ -14,6 +25,17 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		393C88AF2911105300861CCB /* Country.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Country.swift; sourceTree = "<group>"; };
+		393C88B12911107300861CCB /* ElementType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ElementType.swift; sourceTree = "<group>"; };
+		393C88B3291111B700861CCB /* GeoMatcher.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeoMatcher.swift; sourceTree = "<group>"; };
+		393C88B52911127E00861CCB /* GeoMatcherViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeoMatcherViewModel.swift; sourceTree = "<group>"; };
+		393C88B729112BEF00861CCB /* countryData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = countryData.json; sourceTree = "<group>"; };
+		393C88C02911F9A400861CCB /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
+		393C88C22912066300861CCB /* GeoMatcherView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeoMatcherView.swift; sourceTree = "<group>"; };
+		393C88C6291207D500861CCB /* AspectVGrid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AspectVGrid.swift; sourceTree = "<group>"; };
+		393C88C82912085600861CCB /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
+		393C88CA29120DF700861CCB /* CardAnimator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardAnimator.swift; sourceTree = "<group>"; };
+		393C88CC2912693800861CCB /* ScoreView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScoreView.swift; sourceTree = "<group>"; };
 		3966C34A290B6EBC00A44B68 /* GeoMatcher.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GeoMatcher.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3966C34D290B6EBC00A44B68 /* GeoMatcherApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeoMatcherApp.swift; sourceTree = "<group>"; };
 		3966C34F290B6EBC00A44B68 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -32,6 +54,53 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		393C88BB2911555500861CCB /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				393C88AF2911105300861CCB /* Country.swift */,
+				393C88B3291111B700861CCB /* GeoMatcher.swift */,
+				393C88C02911F9A400861CCB /* Card.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		393C88BC2911556000861CCB /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				393C88B52911127E00861CCB /* GeoMatcherViewModel.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		393C88BD2911556F00861CCB /* Enums */ = {
+			isa = PBXGroup;
+			children = (
+				393C88B12911107300861CCB /* ElementType.swift */,
+			);
+			path = Enums;
+			sourceTree = "<group>";
+		};
+		393C88BE2911558600861CCB /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				393C88B729112BEF00861CCB /* countryData.json */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		393C88BF291155AA00861CCB /* View */ = {
+			isa = PBXGroup;
+			children = (
+				3966C34F290B6EBC00A44B68 /* ContentView.swift */,
+				393C88C22912066300861CCB /* GeoMatcherView.swift */,
+				393C88C6291207D500861CCB /* AspectVGrid.swift */,
+				393C88C82912085600861CCB /* CardView.swift */,
+				393C88CA29120DF700861CCB /* CardAnimator.swift */,
+				393C88CC2912693800861CCB /* ScoreView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
 		3966C341290B6EBC00A44B68 = {
 			isa = PBXGroup;
 			children = (
@@ -52,8 +121,12 @@
 			isa = PBXGroup;
 			children = (
 				3966C34D290B6EBC00A44B68 /* GeoMatcherApp.swift */,
-				3966C34F290B6EBC00A44B68 /* ContentView.swift */,
+				393C88BF291155AA00861CCB /* View */,
+				393C88BC2911556000861CCB /* ViewModel */,
+				393C88BB2911555500861CCB /* Model */,
+				393C88BD2911556F00861CCB /* Enums */,
 				3966C351290B6EBE00A44B68 /* Assets.xcassets */,
+				393C88BE2911558600861CCB /* Resources */,
 				3966C353290B6EBE00A44B68 /* Preview Content */,
 			);
 			path = GeoMatcher;
@@ -125,6 +198,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				393C88B829112BEF00861CCB /* countryData.json in Resources */,
 				3966C355290B6EBE00A44B68 /* Preview Assets.xcassets in Resources */,
 				3966C352290B6EBE00A44B68 /* Assets.xcassets in Resources */,
 			);
@@ -137,8 +211,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				393C88B22911107300861CCB /* ElementType.swift in Sources */,
+				393C88C32912066300861CCB /* GeoMatcherView.swift in Sources */,
 				3966C350290B6EBC00A44B68 /* ContentView.swift in Sources */,
+				393C88C12911F9A400861CCB /* Card.swift in Sources */,
+				393C88B4291111B700861CCB /* GeoMatcher.swift in Sources */,
+				393C88CD2912693800861CCB /* ScoreView.swift in Sources */,
+				393C88B02911105300861CCB /* Country.swift in Sources */,
 				3966C34E290B6EBC00A44B68 /* GeoMatcherApp.swift in Sources */,
+				393C88B62911127E00861CCB /* GeoMatcherViewModel.swift in Sources */,
+				393C88CB29120DF800861CCB /* CardAnimator.swift in Sources */,
+				393C88C7291207D500861CCB /* AspectVGrid.swift in Sources */,
+				393C88C92912085600861CCB /* CardView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
