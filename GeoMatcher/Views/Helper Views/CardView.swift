@@ -45,14 +45,14 @@ struct CardView: View {
                     workingTimer.strokeBorder(lineWidth: DrawingConstants.strokeWidth)
                 } else {
                     let stoppedTimer = RoundedRectangle(cornerRadius: DrawingConstants.cornerRadius)
-                    stoppedTimer.strokeBorder(lineWidth: DrawingConstants.strokeWidth)
                     stoppedTimer.size(width: geometry.size.width*card.bonusTimePercentage, height: geometry.size.height)
                         .fill(DrawingConstants.timerColor)
                         .opacity(DrawingConstants.timerOpacity)
+                    stoppedTimer.strokeBorder(lineWidth: DrawingConstants.strokeWidth)
                 }
             }
-            .cardAnimation(isFaceUp: card.isFaceUp,
-                           isShown: (card.isDealt && !card.isMatched) || forDeck)
+            .cardAnimation(isFaceUp: card.isFaceUp || card.isFinal,
+                           isShown: (card.isDealt && !card.isMatched) || forDeck || card.isFinal)
         }
     }
     

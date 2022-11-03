@@ -12,12 +12,14 @@ struct ScoreView: View {
     @EnvironmentObject var game: GeoMatcherViewModel
     
     var body: some View {
-        HStack {
+        VStack {
             Text("Score: \(game.score, specifier: "%.2f")")
             if game.lastScore > 0 {
                 Text(" +\(game.lastScore, specifier: "%.2f")  \(bonusTextOf(game.lastScore))")
                     .transition(AnyTransition.asymmetric(insertion: .slide, removal: .opacity))
                     .foregroundColor(colorOf(game.lastScore))
+            } else {
+                Text(" ")
             }
         }
     }
@@ -67,5 +69,6 @@ struct ScoreView: View {
 struct ScoreView_Previews: PreviewProvider {
     static var previews: some View {
         ScoreView()
+            .environmentObject(GeoMatcherViewModel())
     }
 }
