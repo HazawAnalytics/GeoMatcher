@@ -13,16 +13,12 @@ struct SVGImageView: UIViewRepresentable {
     @Binding var size:CGSize
     
     func makeUIView(context: Context) -> SVGKFastImageView {
-       
-       // let url = url
-      //  let data = try? Data(contentsOf: url)
         let svgImage = SVGKImage(contentsOf: url)
         return SVGKFastImageView(svgkImage: svgImage ?? SVGKImage())
-        
     }
+    
     func updateUIView(_ uiView: SVGKFastImageView, context: Context) {
         uiView.image = SVGKImage(contentsOf: url)
-        
         uiView.image.size = size
     }
 }

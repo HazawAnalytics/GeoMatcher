@@ -29,6 +29,11 @@ final class GeoMatcherViewModel: ObservableObject {
         game.lastScore
     }
     
+    /// Whether or not the game has ended.
+    var hasEnded: Bool {
+        game.hasEnded
+    }
+    
     /// Creates a `GeoMatcherViewModel` instance with cards of the `elementTypes`.
     init(elementTypes: (ElementType, ElementType)) {
         game = GeoMatcher(elementTypes: elementTypes)

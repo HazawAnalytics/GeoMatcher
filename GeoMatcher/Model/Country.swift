@@ -7,6 +7,7 @@
 
 import Foundation
 import SwiftUI
+import CoreLocation
 
 /// A `struct` to load and store a country's data.
 struct Country: Hashable, Codable, Identifiable, Equatable {
@@ -20,16 +21,18 @@ struct Country: Hashable, Codable, Identifiable, Equatable {
     var capital: String
     /// Difficulty level of matching the country.
     var difficulty: Int
-    
     /// `String` of the link to an image of the country's flag.
     var image: String
-    /// An `AsyncImage` of the country's flag.
-    var asyncImage: some View {
-        AsyncImage(url: URL(string: image)) { image in
-            image.resizable()
-        } placeholder: {
-            ProgressView()
-        }
+    
+    private var coordinates: Coordinates
+    var locationCoordinates: CLLocationCoordinate2D {
+        CLLocationCoordinate2D(latitude: coordinates.latitude, longitude: coordinates.longitude)
+    }
+    
+    struct Coordinates: Hashable, Codable {
+        var latitude: Double
+        var longitude: Double
+
     }
     
     /// Comparator of two countries. Returns true if they share the same id, false otherwise.

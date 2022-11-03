@@ -6,15 +6,28 @@
 //
 
 import SwiftUI
+import MapKit
 
 struct MapView: View {
+    var locationCoordinate: CLLocationCoordinate2D
+    
+    @State private var region = MKCoordinateRegion()
+    
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        Map(coordinateRegion: $region)
+            .onAppear {
+                setRegion()
+            }
+    }
+    
+    private func setRegion() {
+        region = MKCoordinateRegion(center: locationCoordinate,
+                                    span: MKCoordinateSpan(latitudeDelta: 0.02, longitudeDelta: 0.02))
     }
 }
 
 struct MapView_Previews: PreviewProvider {
     static var previews: some View {
-        MapView()
+        MapView(locationCoordinate: GeoMatcherViewModel().cards[1].country.locationCoordinates)
     }
 }

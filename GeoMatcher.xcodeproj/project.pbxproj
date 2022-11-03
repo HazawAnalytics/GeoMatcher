@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0324E41E8AA55E6E5FDE8CAE /* Pods_GeoMatcher.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DEEC10CFDD047778CA61D58F /* Pods_GeoMatcher.framework */; };
 		393C88B02911105300861CCB /* Country.swift in Sources */ = {isa = PBXBuildFile; fileRef = 393C88AF2911105300861CCB /* Country.swift */; };
 		393C88B22911107300861CCB /* ElementType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 393C88B12911107300861CCB /* ElementType.swift */; };
 		393C88B4291111B700861CCB /* GeoMatcher.swift in Sources */ = {isa = PBXBuildFile; fileRef = 393C88B3291111B700861CCB /* GeoMatcher.swift */; };
@@ -18,6 +19,10 @@
 		393C88C92912085600861CCB /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 393C88C82912085600861CCB /* CardView.swift */; };
 		393C88CB29120DF800861CCB /* CardAnimator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 393C88CA29120DF700861CCB /* CardAnimator.swift */; };
 		393C88CD2912693800861CCB /* ScoreView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 393C88CC2912693800861CCB /* ScoreView.swift */; };
+		393C88D32913600100861CCB /* SVGImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 393C88D22913600100861CCB /* SVGImageView.swift */; };
+		393C88D5291364FF00861CCB /* CountryDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 393C88D4291364FF00861CCB /* CountryDetailView.swift */; };
+		393C88DB29137A7B00861CCB /* CircleImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 393C88DA29137A7B00861CCB /* CircleImageView.swift */; };
+		393C88DF29139D5400861CCB /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 393C88DE29139D5400861CCB /* MapView.swift */; };
 		3966C34E290B6EBC00A44B68 /* GeoMatcherApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3966C34D290B6EBC00A44B68 /* GeoMatcherApp.swift */; };
 		3966C350290B6EBC00A44B68 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3966C34F290B6EBC00A44B68 /* ContentView.swift */; };
 		3966C352290B6EBE00A44B68 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3966C351290B6EBE00A44B68 /* Assets.xcassets */; };
@@ -25,6 +30,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0160ADFAEB91596195228005 /* Pods-GeoMatcher.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GeoMatcher.debug.xcconfig"; path = "Target Support Files/Pods-GeoMatcher/Pods-GeoMatcher.debug.xcconfig"; sourceTree = "<group>"; };
 		393C88AF2911105300861CCB /* Country.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Country.swift; sourceTree = "<group>"; };
 		393C88B12911107300861CCB /* ElementType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ElementType.swift; sourceTree = "<group>"; };
 		393C88B3291111B700861CCB /* GeoMatcher.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeoMatcher.swift; sourceTree = "<group>"; };
@@ -36,11 +42,17 @@
 		393C88C82912085600861CCB /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 		393C88CA29120DF700861CCB /* CardAnimator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardAnimator.swift; sourceTree = "<group>"; };
 		393C88CC2912693800861CCB /* ScoreView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScoreView.swift; sourceTree = "<group>"; };
+		393C88D22913600100861CCB /* SVGImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SVGImageView.swift; sourceTree = "<group>"; };
+		393C88D4291364FF00861CCB /* CountryDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountryDetailView.swift; sourceTree = "<group>"; };
+		393C88DA29137A7B00861CCB /* CircleImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImageView.swift; sourceTree = "<group>"; };
+		393C88DE29139D5400861CCB /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 		3966C34A290B6EBC00A44B68 /* GeoMatcher.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GeoMatcher.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3966C34D290B6EBC00A44B68 /* GeoMatcherApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeoMatcherApp.swift; sourceTree = "<group>"; };
 		3966C34F290B6EBC00A44B68 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		3966C351290B6EBE00A44B68 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3966C354290B6EBE00A44B68 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		B37AB8D2E3B107D1BFF2DD11 /* Pods-GeoMatcher.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GeoMatcher.release.xcconfig"; path = "Target Support Files/Pods-GeoMatcher/Pods-GeoMatcher.release.xcconfig"; sourceTree = "<group>"; };
+		DEEC10CFDD047778CA61D58F /* Pods_GeoMatcher.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_GeoMatcher.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -48,6 +60,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0324E41E8AA55E6E5FDE8CAE /* Pods_GeoMatcher.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -88,17 +101,37 @@
 			path = Resources;
 			sourceTree = "<group>";
 		};
-		393C88BF291155AA00861CCB /* View */ = {
+		393C88BF291155AA00861CCB /* Views */ = {
 			isa = PBXGroup;
 			children = (
 				3966C34F290B6EBC00A44B68 /* ContentView.swift */,
-				393C88C22912066300861CCB /* GeoMatcherView.swift */,
+				393C88D9291379DB00861CCB /* Game Views */,
+				393C88D8291379C600861CCB /* Helper Views */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		393C88D8291379C600861CCB /* Helper Views */ = {
+			isa = PBXGroup;
+			children = (
+				393C88D22913600100861CCB /* SVGImageView.swift */,
 				393C88C6291207D500861CCB /* AspectVGrid.swift */,
 				393C88C82912085600861CCB /* CardView.swift */,
 				393C88CA29120DF700861CCB /* CardAnimator.swift */,
+				393C88DA29137A7B00861CCB /* CircleImageView.swift */,
+				393C88DE29139D5400861CCB /* MapView.swift */,
+			);
+			path = "Helper Views";
+			sourceTree = "<group>";
+		};
+		393C88D9291379DB00861CCB /* Game Views */ = {
+			isa = PBXGroup;
+			children = (
+				393C88C22912066300861CCB /* GeoMatcherView.swift */,
+				393C88D4291364FF00861CCB /* CountryDetailView.swift */,
 				393C88CC2912693800861CCB /* ScoreView.swift */,
 			);
-			path = View;
+			path = "Game Views";
 			sourceTree = "<group>";
 		};
 		3966C341290B6EBC00A44B68 = {
@@ -106,6 +139,8 @@
 			children = (
 				3966C34C290B6EBC00A44B68 /* GeoMatcher */,
 				3966C34B290B6EBC00A44B68 /* Products */,
+				EECF4B42FAD78647821DD8FA /* Pods */,
+				D36FC4071C55521ABCB531E5 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -121,7 +156,7 @@
 			isa = PBXGroup;
 			children = (
 				3966C34D290B6EBC00A44B68 /* GeoMatcherApp.swift */,
-				393C88BF291155AA00861CCB /* View */,
+				393C88BF291155AA00861CCB /* Views */,
 				393C88BC2911556000861CCB /* ViewModel */,
 				393C88BB2911555500861CCB /* Model */,
 				393C88BD2911556F00861CCB /* Enums */,
@@ -140,6 +175,23 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
+		D36FC4071C55521ABCB531E5 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				DEEC10CFDD047778CA61D58F /* Pods_GeoMatcher.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		EECF4B42FAD78647821DD8FA /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				0160ADFAEB91596195228005 /* Pods-GeoMatcher.debug.xcconfig */,
+				B37AB8D2E3B107D1BFF2DD11 /* Pods-GeoMatcher.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -147,9 +199,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 3966C358290B6EBE00A44B68 /* Build configuration list for PBXNativeTarget "GeoMatcher" */;
 			buildPhases = (
+				A21C675BCC87F66063B8AD81 /* [CP] Check Pods Manifest.lock */,
 				3966C346290B6EBC00A44B68 /* Sources */,
 				3966C347290B6EBC00A44B68 /* Frameworks */,
 				3966C348290B6EBC00A44B68 /* Resources */,
+				2146074D97BE59F2917D4047 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -206,14 +260,59 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		2146074D97BE59F2917D4047 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-GeoMatcher/Pods-GeoMatcher-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-GeoMatcher/Pods-GeoMatcher-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-GeoMatcher/Pods-GeoMatcher-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		A21C675BCC87F66063B8AD81 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-GeoMatcher-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		3966C346290B6EBC00A44B68 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				393C88D5291364FF00861CCB /* CountryDetailView.swift in Sources */,
+				393C88DF29139D5400861CCB /* MapView.swift in Sources */,
 				393C88B22911107300861CCB /* ElementType.swift in Sources */,
 				393C88C32912066300861CCB /* GeoMatcherView.swift in Sources */,
 				3966C350290B6EBC00A44B68 /* ContentView.swift in Sources */,
+				393C88D32913600100861CCB /* SVGImageView.swift in Sources */,
 				393C88C12911F9A400861CCB /* Card.swift in Sources */,
 				393C88B4291111B700861CCB /* GeoMatcher.swift in Sources */,
 				393C88CD2912693800861CCB /* ScoreView.swift in Sources */,
@@ -222,6 +321,7 @@
 				393C88B62911127E00861CCB /* GeoMatcherViewModel.swift in Sources */,
 				393C88CB29120DF800861CCB /* CardAnimator.swift in Sources */,
 				393C88C7291207D500861CCB /* AspectVGrid.swift in Sources */,
+				393C88DB29137A7B00861CCB /* CircleImageView.swift in Sources */,
 				393C88C92912085600861CCB /* CardView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -345,6 +445,7 @@
 		};
 		3966C359290B6EBE00A44B68 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0160ADFAEB91596195228005 /* Pods-GeoMatcher.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -353,6 +454,10 @@
 				DEVELOPMENT_ASSET_PATHS = "\"GeoMatcher/Preview Content\"";
 				DEVELOPMENT_TEAM = S73P2DMMH2;
 				ENABLE_PREVIEWS = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/GeoMatcher/Preview\\ Content",
+				);
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -374,6 +479,7 @@
 		};
 		3966C35A290B6EBE00A44B68 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = B37AB8D2E3B107D1BFF2DD11 /* Pods-GeoMatcher.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -382,6 +488,10 @@
 				DEVELOPMENT_ASSET_PATHS = "\"GeoMatcher/Preview Content\"";
 				DEVELOPMENT_TEAM = S73P2DMMH2;
 				ENABLE_PREVIEWS = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/GeoMatcher/Preview\\ Content",
+				);
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;

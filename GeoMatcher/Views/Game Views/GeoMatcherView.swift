@@ -22,10 +22,12 @@ struct GeoMatcherView: View {
             gameEndBody
                 .opacity(hasEnded ? 1 : 0)
             VStack {
-                ScoreView()
+                ZStack{
+                    ScoreView()
+                    restartButton
+                }
                 gameBody
                 deckBody
-                restart
             }
             .opacity(hasEnded ? 0 : 1)
         }
@@ -43,8 +45,8 @@ struct GeoMatcherView: View {
                             withAnimation {
                                 game.choose(card)
                             }
-                            withAnimation(Animation.easeInOut(duration: 1)
-                                .delay(1)) {
+                            withAnimation(Animation.easeInOut(duration: DrawingConstants.gameEndDuration)
+                                .delay(DrawingConstants.gameStartDelay)) {
                                     hasEnded = game.hasEnded
                                 }
                         }
@@ -91,8 +93,13 @@ struct GeoMatcherView: View {
     
     var gameEndBody: some View {
         VStack {
-            Text("Congratulations!")
-            Text("Your final score is \(game.score, specifier: "%.2f")")
+            ZStack {
+                VStack {
+                    Text("Your final score is \(game.score, specifier: "%.2f")")
+                    Text("Click on the cards to learn more.")
+                }
+                restartButton
+            }
             NavigationView {
                 AspectVGrid(items: game.cards.filter( {$0.isFinal} ), aspectRatio: DrawingConstants.aspectRatio) { card in
                     NavigationLink {
@@ -104,12 +111,11 @@ struct GeoMatcherView: View {
                 }
             }
             Spacer()
-            restart
         }
     }
     
-    var restart: some View {
-        Button("Restart") {
+    var restartButton: some View {
+        Button {
             withAnimation(Animation.easeInOut(duration: DrawingConstants.gameEndDuration)) {
                 hasEnded = false
             }
@@ -127,6 +133,14 @@ struct GeoMatcherView: View {
                 .delay(DrawingConstants.gameStartDelay + DrawingConstants.restartDelay + DrawingConstants.dealCardDelay * Double(startingPairs))) {
                     game.shuffle()
                 }
+        } label: {
+            HStack {
+                Spacer()
+                VStack {
+                    Image(systemName: "goforward")
+                }
+                .padding(.trailing)
+            }
         }
     }
     
@@ -139,7 +153,7 @@ struct GeoMatcherView: View {
         static let gameEndDuration: CGFloat = 1
         static let dealDuration: CGFloat = 0.3
         static let shuffleDuration: CGFloat = 0.15
-        static let gameStartDelay: CGFloat = 1
+        static let gameStartDelay: CGFloat = 0.5
         static let restartDelay: Double = 0.4
         static let dealCardDelay: Double = 0.3
     }

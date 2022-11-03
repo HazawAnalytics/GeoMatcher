@@ -23,6 +23,8 @@ struct Card: Identifiable {
     var isMatched: Bool = false
     /// A `Bool` that is true when the card is dealt (i.e. not in the deck)
     var isDealt: Bool = false
+    /// A `Bool` that is true if the card is on the grid and the game ended
+    var isFinal: Bool = false
     /// The `Country` used in the card.
     var country: Country
     /// The `ElementType` of the country to show on the card.

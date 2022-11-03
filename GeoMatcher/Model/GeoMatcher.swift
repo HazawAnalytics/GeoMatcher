@@ -34,6 +34,9 @@ struct GeoMatcher {
     /// The last score increment, 0 if never changed.
     private(set) var lastScore: Double = 0
     
+    /// A `Bool` that is `true` if the game has ended.
+    private(set) var hasEnded: Bool = false
+    
     /// Creates a `GeoMatcher` instance with cards of the `elementTypes`.
     init(elementTypes: (ElementType, ElementType)) {
         self.elementTypes = elementTypes
@@ -45,7 +48,6 @@ struct GeoMatcher {
             cards.append(Card(country: countries[index], elementType: elementTypes.0, id: index*2))
             cards.append(Card(country: countries[index], elementType: elementTypes.1, id: index*2+1))
         }
-        
         shuffle()
     }
     
@@ -56,7 +58,8 @@ struct GeoMatcher {
     mutating func choose(_ card: Card) {
         if let chosenIndex = cards.firstIndex(where: {$0.id == card.id}),
            !card.isMatched,
-           !card.isFaceUp
+           !card.isFaceUp,
+           !card.isFinal
         {
             lastScore = 0
             if let faceUpIndex = indexOfOnlyFaceUpCard {
@@ -70,7 +73,25 @@ struct GeoMatcher {
             } else {
                 indexOfOnlyFaceUpCard = chosenIndex
             }
+            if cards.filter( {$0.isDealt && !$0.isMatched} ).isEmpty {
+                endGame()
+            }
         }
+    }
+    
+    mutating private func endGame() {
+        var newcards: [Card] = []
+        repeat {
+            if let firstUnfinalizedIndex = cards.firstIndex(where: {$0.isDealt && !$0.isFinal && $0.elementType == elementTypes.0}),
+                   let matchingCardIndex = cards.firstIndex(where: { cards[firstUnfinalizedIndex].id != $0.id && cards[firstUnfinalizedIndex].checkMatching(with: $0) }) {
+                    cards[firstUnfinalizedIndex].isFinal = true
+                    cards[matchingCardIndex].isFinal = true
+                    newcards.append(cards[firstUnfinalizedIndex])
+                    newcards.append(cards[matchingCardIndex])
+                }
+        } while !cards.filter( {$0.isDealt && !$0.isFinal} ).isEmpty
+        cards = newcards
+        hasEnded = true
     }
     
     /// Shuffles the cards array.
@@ -95,6 +116,7 @@ struct GeoMatcher {
         score = 0
         lastScore = 0
         cards = []
+        hasEnded = false
 
         let randomedIndices = countries.indices.shuffled()
         for index in randomedIndices {
