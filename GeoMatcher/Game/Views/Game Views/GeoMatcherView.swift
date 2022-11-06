@@ -14,9 +14,6 @@ struct GeoMatcherView: View {
     @Namespace private var namespace
     @State var hasEnded = false
     
-    /// The number of pairs of cards to show at the start.
-    private var startingPairs: Int = 3
-    
     var body: some View {
         ZStack {
             gameEndBody
@@ -53,14 +50,14 @@ struct GeoMatcherView: View {
                 }
                 .foregroundColor(DrawingConstants.cardBackColor)
                 .onAppear {
-                    for index in 0..<startingPairs {
+                    for index in 0..<game.settings.startingPairs {
                         withAnimation(Animation.linear(duration: DrawingConstants.dealDuration)
                             .delay(DrawingConstants.dealCardDelay * Double(index))) {
                                 game.deal()
                             }
                     }
                     withAnimation(Animation.linear(duration: DrawingConstants.shuffleDuration)
-                        .delay(DrawingConstants.dealCardDelay * Double(startingPairs))){
+                        .delay(DrawingConstants.dealCardDelay * Double(game.settings.startingPairs))){
                             game.shuffle()
                         }
                     
@@ -123,14 +120,14 @@ struct GeoMatcherView: View {
                 .delay(DrawingConstants.gameStartDelay)) {
                 game.restart()
             }
-            for index in 0..<startingPairs {
+            for index in 0..<game.settings.startingPairs {
                 withAnimation(Animation.linear(duration: DrawingConstants.dealDuration)
                     .delay(DrawingConstants.gameStartDelay + DrawingConstants.restartDelay + DrawingConstants.dealCardDelay * Double(index))) {
                         game.deal()
                     }
             }
             withAnimation(Animation.linear(duration: DrawingConstants.shuffleDuration)
-                .delay(DrawingConstants.gameStartDelay + DrawingConstants.restartDelay + DrawingConstants.dealCardDelay * Double(startingPairs))) {
+                .delay(DrawingConstants.gameStartDelay + DrawingConstants.restartDelay + DrawingConstants.dealCardDelay * Double(game.settings.startingPairs))) {
                     game.shuffle()
                 }
         } label: {
@@ -155,7 +152,7 @@ struct GeoMatcherView: View {
         static let shuffleDuration: CGFloat = 0.15
         static let gameStartDelay: CGFloat = 0.5
         static let restartDelay: Double = 0.4
-        static let dealCardDelay: Double = 0.3
+        static let dealCardDelay: Double = 0.4
     }
 }
 

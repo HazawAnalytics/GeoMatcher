@@ -11,6 +11,8 @@ import Foundation
 struct GeoMatcher {
     /// `Array` of cards used.
     private(set) var cards: [Card] = []
+    /// Difficulty of the `Countries` used.
+    private var difficulty: Int
     /// The two `ElementType`s used.
     private var elementTypes: (ElementType, ElementType)
     /// The country data used.
@@ -33,14 +35,15 @@ struct GeoMatcher {
     private(set) var score: Double = 0
     /// The last score increment, 0 if never changed.
     private(set) var lastScore: Double = 0
-    
     /// A `Bool` that is `true` if the game has ended.
     private(set) var hasEnded: Bool = false
     
     /// Creates a `GeoMatcher` instance with cards of the `elementTypes`.
-    init(elementTypes: (ElementType, ElementType)) {
+    init(difficulty: Int, elementTypes: (ElementType, ElementType)) {
         self.elementTypes = elementTypes
+        self.difficulty = difficulty
         
+        countries = countries.filter( { $0.difficulty <= difficulty } )
         // Randomly generate a number of indices to use on the country array
         let randomedIndices = countries.indices.shuffled()
         // Populate the cards array with the selected countries and the element types used in game
@@ -67,7 +70,7 @@ struct GeoMatcher {
                 if cards[chosenIndex].checkMatching(with: cards[faceUpIndex]) {
                     cards[chosenIndex].isMatched = true
                     cards[faceUpIndex].isMatched = true
-                    lastScore = 10 + 10 * min(cards[chosenIndex].bonusTimePercentage, cards[faceUpIndex].bonusTimePercentage)
+                    lastScore = (10 + 10 * min(cards[chosenIndex].bonusTimePercentage, cards[faceUpIndex].bonusTimePercentage)) * (Double)(cards[chosenIndex].country.difficulty)
                     score += lastScore
                 }
             } else {
@@ -79,6 +82,8 @@ struct GeoMatcher {
         }
     }
     
+    /// Processes events that need to happen when the game ends by completion.
+    /// Reorder all the matched cards and flip them face up.
     mutating private func endGame() {
         var newcards: [Card] = []
         repeat {
