@@ -152,7 +152,7 @@ struct GeoMatcherView: View {
         static let shuffleDuration: CGFloat = 0.15
         static let gameStartDelay: CGFloat = 0.5
         static let restartDelay: Double = 0.4
-        static let dealCardDelay: Double = 0.4
+        static let dealCardDelay: Double = 0.3
     }
 }
 

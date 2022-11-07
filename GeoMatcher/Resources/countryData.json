@@ -154,5 +154,2371 @@
             "latitude": 43.856259,
             "longitude": 18.413076
         }
+  },
+  {
+    "name": "Barbados",
+    "id": "BB",
+    "emoji": "\ud83c\udde7\ud83c\udde7",
+    "capital": "Bridgetown",
+    "difficulty": 4,
+    "unicode": "U+1F1E7 U+1F1E7",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BB.svg",
+    "coordinates": {
+      "latitude": 13.113222,
+      "longitude": -59.598809
+    }
+  },
+  {
+    "name": "Bangladesh",
+    "id": "BD",
+    "emoji": "\ud83c\udde7\ud83c\udde9",
+    "capital": "Dhaka",
+    "difficulty": 3,
+    "unicode": "U+1F1E7 U+1F1E9",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BD.svg",
+    "coordinates": {
+      "latitude": 23.810332,
+      "longitude": 90.412518
+    }
+  },
+  {
+    "name": "Belgium",
+    "id": "BE",
+    "emoji": "\ud83c\udde7\ud83c\uddea",
+    "capital": "Brussels",
+    "difficulty": 1,
+    "unicode": "U+1F1E7 U+1F1EA",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BE.svg",
+    "coordinates": {
+      "latitude": 50.85034,
+      "longitude": 4.35171
+    }
+  },
+  {
+    "name": "Burkina Faso",
+    "id": "BF",
+    "emoji": "\ud83c\udde7\ud83c\uddeb",
+    "capital": "Ouagadougou",
+    "difficulty": 5,
+    "unicode": "U+1F1E7 U+1F1EB",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BF.svg",
+    "coordinates": {
+      "latitude": 12.371428,
+      "longitude": -1.51966
+    }
+  },
+  {
+    "name": "Bulgaria",
+    "id": "BG",
+    "emoji": "\ud83c\udde7\ud83c\uddec",
+    "capital": "Sofia",
+    "difficulty": 2,
+    "unicode": "U+1F1E7 U+1F1EC",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BG.svg",
+    "coordinates": {
+      "latitude": 42.697708,
+      "longitude": 23.321868
+    }
+  },
+  {
+    "name": "Bahrain",
+    "id": "BH",
+    "emoji": "\ud83c\udde7\ud83c\udded",
+    "capital": "al-Manama",
+    "difficulty": 4,
+    "unicode": "U+1F1E7 U+1F1ED",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BH.svg",
+    "coordinates": {
+      "latitude": 26.228516,
+      "longitude": 50.58605
+    }
+  },
+  {
+    "name": "Burundi",
+    "id": "BI",
+    "emoji": "\ud83c\udde7\ud83c\uddee",
+    "capital": "Gitega",
+    "difficulty": 5,
+    "unicode": "U+1F1E7 U+1F1EE",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BI.svg",
+    "coordinates": {
+      "latitude": -3.361378,
+      "longitude": 29.359878
+    }
+  },
+  {
+    "name": "Benin",
+    "id": "BJ",
+    "emoji": "\ud83c\udde7\ud83c\uddef",
+    "capital": "Porto-Novo",
+    "difficulty": 5,
+    "unicode": "U+1F1E7 U+1F1EF",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BJ.svg",
+    "coordinates": {
+      "latitude": 6.496857,
+      "longitude": 2.628852
+    }
+  },
+  {
+    "name": "Brunei",
+    "id": "BN",
+    "emoji": "\ud83c\udde7\ud83c\uddf3",
+    "capital": "Bandar Seri Begawan",
+    "difficulty": 5,
+    "unicode": "U+1F1E7 U+1F1F3",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BN.svg",
+    "coordinates": {
+      "latitude": 4.903052,
+      "longitude": 114.939821
+    }
+  },
+  {
+    "name": "Bolivia",
+    "id": "BO",
+    "emoji": "\ud83c\udde7\ud83c\uddf4",
+    "capital": "La Paz",
+    "difficulty": 3,
+    "unicode": "U+1F1E7 U+1F1F4",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BO.svg",
+    "coordinates": {
+      "latitude": -16.489689,
+      "longitude": -68.119294
+    }
+  },
+  {
+    "name": "Brazil",
+    "id": "BR",
+    "emoji": "\ud83c\udde7\ud83c\uddf7",
+    "capital": "Brasilia",
+    "difficulty": 1,
+    "unicode": "U+1F1E7 U+1F1F7",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BR.svg",
+    "coordinates": {
+      "latitude": -15.794229,
+      "longitude": -47.882166
+    }
+  },
+  {
+    "name": "Bahamas",
+    "id": "BS",
+    "emoji": "\ud83c\udde7\ud83c\uddf8",
+    "capital": "Nassau",
+    "difficulty": 4,
+    "unicode": "U+1F1E7 U+1F1F8",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BS.svg",
+    "coordinates": {
+      "latitude": 25.047984,
+      "longitude": -77.355413
+    }
+  },
+  {
+    "name": "Bhutan",
+    "id": "BT",
+    "emoji": "\ud83c\udde7\ud83c\uddf9",
+    "capital": "Thimphu",
+    "difficulty": 4,
+    "unicode": "U+1F1E7 U+1F1F9",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BT.svg",
+    "coordinates": {
+      "latitude": 27.472792,
+      "longitude": 89.639286
+    }
+  },
+  {
+    "name": "Botswana",
+    "id": "BW",
+    "emoji": "\ud83c\udde7\ud83c\uddfc",
+    "capital": "Gaborone",
+    "difficulty": 5,
+    "unicode": "U+1F1E7 U+1F1FC",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BW.svg",
+    "coordinates": {
+      "latitude": -24.628208,
+      "longitude": 25.923147
+    }
+  },
+  {
+    "name": "Belarus",
+    "id": "BY",
+    "emoji": "\ud83c\udde7\ud83c\uddfe",
+    "capital": "Minsk",
+    "difficulty": 2,
+    "unicode": "U+1F1E7 U+1F1FE",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BY.svg",
+    "coordinates": {
+      "latitude": 53.90454,
+      "longitude": 27.561524
+    }
+  },
+  {
+    "name": "Belize",
+    "id": "BZ",
+    "emoji": "\ud83c\udde7\ud83c\uddff",
+    "capital": "Belmopan",
+    "difficulty": 4,
+    "unicode": "U+1F1E7 U+1F1FF",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BZ.svg",
+    "coordinates": {
+      "latitude": 17.251011,
+      "longitude": -88.75902
+    }
+  },
+  {
+    "name": "Canada",
+    "id": "CA",
+    "emoji": "\ud83c\udde8\ud83c\udde6",
+    "capital": "Ottawa",
+    "difficulty": 1,
+    "unicode": "U+1F1E8 U+1F1E6",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CA.svg",
+    "coordinates": {
+      "latitude": 45.42153,
+      "longitude": -75.697193
+    }
+  },
+  {
+    "name": "DR Congo",
+    "id": "CD",
+    "emoji": "\ud83c\udde8\ud83c\udde9",
+    "capital": "Kinshasa",
+    "difficulty": 4,
+    "unicode": "U+1F1E8 U+1F1E9",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CD.svg",
+    "coordinates": {
+      "latitude": -4.441931,
+      "longitude": 15.266293
+    }
+  },
+  {
+    "name": "Central African Republic",
+    "id": "CF",
+    "emoji": "\ud83c\udde8\ud83c\uddeb",
+    "capital": "Bangui",
+    "difficulty": 4,
+    "unicode": "U+1F1E8 U+1F1EB",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CF.svg",
+    "coordinates": {
+      "latitude": 4.394674,
+      "longitude": 18.55819
+    }
+  },
+  {
+    "name": "Republic of the Congo",
+    "id": "CG",
+    "emoji": "\ud83c\udde8\ud83c\uddec",
+    "capital": "Brazzaville",
+    "difficulty": 4,
+    "unicode": "U+1F1E8 U+1F1EC",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CG.svg",
+    "coordinates": {
+      "latitude": -4.26336,
+      "longitude": 15.242885
+    }
+  },
+  {
+    "name": "Switzerland",
+    "id": "CH",
+    "emoji": "\ud83c\udde8\ud83c\udded",
+    "capital": "Bern",
+    "difficulty": 1,
+    "unicode": "U+1F1E8 U+1F1ED",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CH.svg",
+    "coordinates": {
+      "latitude": 46.947974,
+      "longitude": 7.447447
+    }
+  },
+  {
+    "name": "C\u00f4te d\u2019Ivoire",
+    "id": "CI",
+    "emoji": "\ud83c\udde8\ud83c\uddee",
+    "capital": "Yamoussoukro",
+    "difficulty": 4,
+    "unicode": "U+1F1E8 U+1F1EE",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CI.svg",
+    "coordinates": {
+      "latitude": 6.827623,
+      "longitude": -5.289343
+    }
+  },
+  {
+    "name": "Chile",
+    "id": "CL",
+    "emoji": "\ud83c\udde8\ud83c\uddf1",
+    "capital": "Santiago",
+    "difficulty": 2,
+    "unicode": "U+1F1E8 U+1F1F1",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CL.svg",
+    "coordinates": {
+      "latitude": -33.44889,
+      "longitude": -70.669265
+    }
+  },
+  {
+    "name": "Cameroon",
+    "id": "CM",
+    "emoji": "\ud83c\udde8\ud83c\uddf2",
+    "capital": "Yaound",
+    "difficulty": 4,
+    "unicode": "U+1F1E8 U+1F1F2",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CM.svg",
+    "coordinates": {
+      "latitude": 3.848033,
+      "longitude": 11.502075
+    }
+  },
+  {
+    "name": "China",
+    "id": "CN",
+    "emoji": "\ud83c\udde8\ud83c\uddf3",
+    "capital": "Beijing",
+    "difficulty": 1,
+    "unicode": "U+1F1E8 U+1F1F3",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CN.svg",
+    "coordinates": {
+      "latitude": 39.904211,
+      "longitude": 116.407395
+    }
+  },
+  {
+    "name": "Colombia",
+    "id": "CO",
+    "emoji": "\ud83c\udde8\ud83c\uddf4",
+    "capital": "Bogota",
+    "difficulty": 2,
+    "unicode": "U+1F1E8 U+1F1F4",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CO.svg",
+    "coordinates": {
+      "latitude": 4.710989,
+      "longitude": -74.072092
+    }
+  },
+  {
+    "name": "Costa Rica",
+    "id": "CR",
+    "emoji": "\ud83c\udde8\ud83c\uddf7",
+    "capital": "San Jose",
+    "difficulty": 3,
+    "unicode": "U+1F1E8 U+1F1F7",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CR.svg",
+    "coordinates": {
+      "latitude": 9.928069,
+      "longitude": -84.090725
+    }
+  },
+  {
+    "name": "Cuba",
+    "id": "CU",
+    "emoji": "\ud83c\udde8\ud83c\uddfa",
+    "capital": "Havana",
+    "difficulty": 2,
+    "unicode": "U+1F1E8 U+1F1FA",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CU.svg",
+    "coordinates": {
+      "latitude": 23.05407,
+      "longitude": -82.345189
+    }
+  },
+  {
+    "name": "Cape Verde",
+    "id": "CV",
+    "emoji": "\ud83c\udde8\ud83c\uddfb",
+    "capital": "Praia",
+    "difficulty": 5,
+    "unicode": "U+1F1E8 U+1F1FB",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CV.svg",
+    "coordinates": {
+      "latitude": 14.93305,
+      "longitude": -23.513327
+    }
+  },
+  {
+    "name": "Cyprus",
+    "id": "CY",
+    "emoji": "\ud83c\udde8\ud83c\uddfe",
+    "capital": "Nicosia",
+    "difficulty": 3,
+    "unicode": "U+1F1E8 U+1F1FE",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CY.svg",
+    "coordinates": {
+      "latitude": 35.185566,
+      "longitude": 33.382276
+    }
+  },
+  {
+    "name": "Czechia",
+    "id": "CZ",
+    "emoji": "\ud83c\udde8\ud83c\uddff",
+    "capital": "Prague",
+    "difficulty": 2,
+    "unicode": "U+1F1E8 U+1F1FF",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CZ.svg",
+    "coordinates": {
+      "latitude": 50.075538,
+      "longitude": 14.4378
+    }
+  },
+  {
+    "name": "Germany",
+    "id": "DE",
+    "emoji": "\ud83c\udde9\ud83c\uddea",
+    "capital": "Berlin",
+    "difficulty": 1,
+    "unicode": "U+1F1E9 U+1F1EA",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DE.svg",
+    "coordinates": {
+      "latitude": 52.520007,
+      "longitude": 13.404954
+    }
+  },
+  {
+    "name": "Djibouti",
+    "id": "DJ",
+    "emoji": "\ud83c\udde9\ud83c\uddef",
+    "capital": "Djibouti",
+    "difficulty": 5,
+    "unicode": "U+1F1E9 U+1F1EF",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DJ.svg",
+    "coordinates": {
+      "latitude": 11.572077,
+      "longitude": 43.145647
+    }
+  },
+  {
+    "name": "Denmark",
+    "id": "DK",
+    "emoji": "\ud83c\udde9\ud83c\uddf0",
+    "capital": "Copenhagen",
+    "difficulty": 2,
+    "unicode": "U+1F1E9 U+1F1F0",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DK.svg",
+    "coordinates": {
+      "latitude": 55.676097,
+      "longitude": 12.568337
+    }
+  },
+  {
+    "name": "Dominica",
+    "id": "DM",
+    "emoji": "\ud83c\udde9\ud83c\uddf2",
+    "capital": "Roseau",
+    "difficulty": 4,
+    "unicode": "U+1F1E9 U+1F1F2",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DM.svg",
+    "coordinates": {
+      "latitude": 15.309168,
+      "longitude": -61.379355
+    }
+  },
+  {
+    "name": "Dominican Republic",
+    "id": "DO",
+    "emoji": "\ud83c\udde9\ud83c\uddf4",
+    "capital": "Santo Domingo",
+    "difficulty": 4,
+    "unicode": "U+1F1E9 U+1F1F4",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DO.svg",
+    "coordinates": {
+      "latitude": 18.486058,
+      "longitude": -69.931212
+    }
+  },
+  {
+    "name": "Algeria",
+    "id": "DZ",
+    "emoji": "\ud83c\udde9\ud83c\uddff",
+    "capital": "Algiers",
+    "difficulty": 2,
+    "unicode": "U+1F1E9 U+1F1FF",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DZ.svg",
+    "coordinates": {
+      "latitude": 36.752887,
+      "longitude": 3.042048
+    }
+  },
+  {
+    "name": "Ecuador",
+    "id": "EC",
+    "emoji": "\ud83c\uddea\ud83c\udde8",
+    "capital": "Quito",
+    "difficulty": 2,
+    "unicode": "U+1F1EA U+1F1E8",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/EC.svg",
+    "coordinates": {
+      "latitude": -0.180653,
+      "longitude": -78.467838
+    }
+  },
+  {
+    "name": "Estonia",
+    "id": "EE",
+    "emoji": "\ud83c\uddea\ud83c\uddea",
+    "capital": "Tallinn",
+    "difficulty": 2,
+    "unicode": "U+1F1EA U+1F1EA",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/EE.svg",
+    "coordinates": {
+      "latitude": 59.436961,
+      "longitude": 24.753575
+    }
+  },
+  {
+    "name": "Egypt",
+    "id": "EG",
+    "emoji": "\ud83c\uddea\ud83c\uddec",
+    "capital": "Cairo",
+    "difficulty": 1,
+    "unicode": "U+1F1EA U+1F1EC",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/EG.svg",
+    "coordinates": {
+      "latitude": 30.04442,
+      "longitude": 31.235712
+    }
+  },
+  {
+    "name": "Eritrea",
+    "id": "ER",
+    "emoji": "\ud83c\uddea\ud83c\uddf7",
+    "capital": "Asmara",
+    "difficulty": 5,
+    "unicode": "U+1F1EA U+1F1F7",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ER.svg",
+    "coordinates": {
+      "latitude": 15.322877,
+      "longitude": 38.925052
+    }
+  },
+  {
+    "name": "Spain",
+    "id": "ES",
+    "emoji": "\ud83c\uddea\ud83c\uddf8",
+    "capital": "Madrid",
+    "difficulty": 1,
+    "unicode": "U+1F1EA U+1F1F8",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ES.svg",
+    "coordinates": {
+      "latitude": 40.416775,
+      "longitude": -3.70379
+    }
+  },
+  {
+    "name": "Ethiopia",
+    "id": "ET",
+    "emoji": "\ud83c\uddea\ud83c\uddf9",
+    "capital": "Addis Ababa",
+    "difficulty": 2,
+    "unicode": "U+1F1EA U+1F1F9",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ET.svg",
+    "coordinates": {
+      "latitude": 8.980603,
+      "longitude": 38.757761
+    }
+  },
+  {
+    "name": "Finland",
+    "id": "FI",
+    "emoji": "\ud83c\uddeb\ud83c\uddee",
+    "capital": "Helsinki",
+    "difficulty": 2,
+    "unicode": "U+1F1EB U+1F1EE",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/FI.svg",
+    "coordinates": {
+      "latitude": 60.173324,
+      "longitude": 24.941025
+    }
+  },
+  {
+    "name": "Fiji",
+    "id": "FJ",
+    "emoji": "\ud83c\uddeb\ud83c\uddef",
+    "capital": "Suva",
+    "difficulty": 4,
+    "unicode": "U+1F1EB U+1F1EF",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/FJ.svg",
+    "coordinates": {
+      "latitude": -18.124809,
+      "longitude": 178.450079
+    }
+  },
+  {
+    "name": "Micronesia",
+    "id": "FM",
+    "emoji": "\ud83c\uddeb\ud83c\uddf2",
+    "capital": "Palikir",
+    "difficulty": 5,
+    "unicode": "U+1F1EB U+1F1F2",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/FM.svg",
+    "coordinates": {
+      "latitude": 6.914712,
+      "longitude": 158.161027
+    }
+  },
+  {
+    "name": "France",
+    "id": "FR",
+    "emoji": "\ud83c\uddeb\ud83c\uddf7",
+    "capital": "Paris",
+    "difficulty": 1,
+    "unicode": "U+1F1EB U+1F1F7",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/FR.svg",
+    "coordinates": {
+      "latitude": 48.856614,
+      "longitude": 2.352222
+    }
+  },
+  {
+    "name": "Gabon",
+    "id": "GA",
+    "emoji": "\ud83c\uddec\ud83c\udde6",
+    "capital": "Libreville",
+    "difficulty": 5,
+    "unicode": "U+1F1EC U+1F1E6",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GA.svg",
+    "coordinates": {
+      "latitude": 0.416198,
+      "longitude": 9.467268
+    }
+  },
+  {
+    "name": "United Kingdom",
+    "id": "GB",
+    "emoji": "\ud83c\uddec\ud83c\udde7",
+    "capital": "London",
+    "difficulty": 1,
+    "unicode": "U+1F1EC U+1F1E7",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GB.svg",
+    "coordinates": {
+      "latitude": 51.507351,
+      "longitude": -0.127758
+    }
+  },
+  {
+    "name": "Grenada",
+    "id": "GD",
+    "emoji": "\ud83c\uddec\ud83c\udde9",
+    "capital": "St. George's",
+    "difficulty": 5,
+    "unicode": "U+1F1EC U+1F1E9",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GD.svg",
+    "coordinates": {
+      "latitude": 12.056098,
+      "longitude": -61.7488
+    }
+  },
+  {
+    "name": "Georgia",
+    "id": "GE",
+    "emoji": "\ud83c\uddec\ud83c\uddea",
+    "capital": "Tbilisi",
+    "difficulty": 3,
+    "unicode": "U+1F1EC U+1F1EA",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GE.svg",
+    "coordinates": {
+      "latitude": 41.715138,
+      "longitude": 44.827096
+    }
+  },
+  {
+    "name": "Ghana",
+    "id": "GH",
+    "emoji": "\ud83c\uddec\ud83c\udded",
+    "capital": "Accra",
+    "difficulty": 3,
+    "unicode": "U+1F1EC U+1F1ED",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GH.svg",
+    "coordinates": {
+      "latitude": 5.603717,
+      "longitude": -0.186964
+    }
+  },
+  {
+    "name": "Gambia",
+    "id": "GM",
+    "emoji": "\ud83c\uddec\ud83c\uddf2",
+    "capital": "Banjul",
+    "difficulty": 5,
+    "unicode": "U+1F1EC U+1F1F2",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GM.svg",
+    "coordinates": {
+      "latitude": 13.454876,
+      "longitude": -16.579032
+    }
+  },
+  {
+    "name": "Guinea",
+    "id": "GN",
+    "emoji": "\ud83c\uddec\ud83c\uddf3",
+    "capital": "Conakry",
+    "difficulty": 4,
+    "unicode": "U+1F1EC U+1F1F3",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GN.svg",
+    "coordinates": {
+      "latitude": 9.641185,
+      "longitude": -13.578401
+    }
+  },
+  {
+    "name": "Equatorial Guinea",
+    "id": "GQ",
+    "emoji": "\ud83c\uddec\ud83c\uddf6",
+    "capital": "Malabo",
+    "difficulty": 5,
+    "unicode": "U+1F1EC U+1F1F6",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GQ.svg",
+    "coordinates": {
+      "latitude": 3.750412,
+      "longitude": 8.737104
+    }
+  },
+  {
+    "name": "Greece",
+    "id": "GR",
+    "emoji": "\ud83c\uddec\ud83c\uddf7",
+    "capital": "Athens",
+    "difficulty": 2,
+    "unicode": "U+1F1EC U+1F1F7",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GR.svg",
+    "coordinates": {
+      "latitude": 37.983917,
+      "longitude": 23.72936
+    }
+  },
+  {
+    "name": "Guatemala",
+    "id": "GT",
+    "emoji": "\ud83c\uddec\ud83c\uddf9",
+    "capital": "Guatemala City",
+    "difficulty": 4,
+    "unicode": "U+1F1EC U+1F1F9",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GT.svg",
+    "coordinates": {
+      "latitude": 14.634915,
+      "longitude": -90.506882
+    }
+  },
+  {
+    "name": "Guinea-Bissau",
+    "id": "GW",
+    "emoji": "\ud83c\uddec\ud83c\uddfc",
+    "capital": "Bissau",
+    "difficulty": 5,
+    "unicode": "U+1F1EC U+1F1FC",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GW.svg",
+    "coordinates": {
+      "latitude": 11.881655,
+      "longitude": -15.617794
+    }
+  },
+  {
+    "name": "Guyana",
+    "id": "GY",
+    "emoji": "\ud83c\uddec\ud83c\uddfe",
+    "capital": "Georgetown",
+    "difficulty": 4,
+    "unicode": "U+1F1EC U+1F1FE",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GY.svg",
+    "coordinates": {
+      "latitude": 6.801279,
+      "longitude": -58.155125
+    }
+  },
+  {
+    "name": "Honduras",
+    "id": "HN",
+    "emoji": "\ud83c\udded\ud83c\uddf3",
+    "capital": "Tegucigalpa",
+    "difficulty": 4,
+    "unicode": "U+1F1ED U+1F1F3",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/HN.svg",
+    "coordinates": {
+      "latitude": 14.072275,
+      "longitude": -87.192136
+    }
+  },
+  {
+    "name": "Croatia",
+    "id": "HR",
+    "emoji": "\ud83c\udded\ud83c\uddf7",
+    "capital": "Zagreb",
+    "difficulty": 2,
+    "unicode": "U+1F1ED U+1F1F7",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/HR.svg",
+    "coordinates": {
+      "latitude": 45.815011,
+      "longitude": 15.981919
+    }
+  },
+  {
+    "name": "Haiti",
+    "id": "HT",
+    "emoji": "\ud83c\udded\ud83c\uddf9",
+    "capital": "Port-au-Prince",
+    "difficulty": 3,
+    "unicode": "U+1F1ED U+1F1F9",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/HT.svg",
+    "coordinates": {
+      "latitude": 18.594395,
+      "longitude": -72.307433
+    }
+  },
+  {
+    "name": "Hungary",
+    "id": "HU",
+    "emoji": "\ud83c\udded\ud83c\uddfa",
+    "capital": "Budapest",
+    "difficulty": 2,
+    "unicode": "U+1F1ED U+1F1FA",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/HU.svg",
+    "coordinates": {
+      "latitude": 47.497912,
+      "longitude": 19.040235
+    }
+  },
+  {
+    "name": "Indonesia",
+    "id": "ID",
+    "emoji": "\ud83c\uddee\ud83c\udde9",
+    "capital": "Jakarta",
+    "difficulty": 2,
+    "unicode": "U+1F1EE U+1F1E9",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ID.svg",
+    "coordinates": {
+      "latitude": -6.208763,
+      "longitude": 106.845599
+    }
+  },
+  {
+    "name": "Ireland",
+    "id": "IE",
+    "emoji": "\ud83c\uddee\ud83c\uddea",
+    "capital": "Dublin",
+    "difficulty": 2,
+    "unicode": "U+1F1EE U+1F1EA",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IE.svg",
+    "coordinates": {
+      "latitude": 53.349805,
+      "longitude": -6.26031
+    }
+  },
+  {
+    "name": "Israel",
+    "id": "IL",
+    "emoji": "\ud83c\uddee\ud83c\uddf1",
+    "capital": "Jerusalem",
+    "difficulty": 1,
+    "unicode": "U+1F1EE U+1F1F1",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IL.svg",
+    "coordinates": {
+      "latitude": 32.0853,
+      "longitude": 34.781768
+    }
+  },
+  {
+    "name": "India",
+    "id": "IN",
+    "emoji": "\ud83c\uddee\ud83c\uddf3",
+    "capital": "New Delhi",
+    "difficulty": 1,
+    "unicode": "U+1F1EE U+1F1F3",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IN.svg",
+    "coordinates": {
+      "latitude": 28.613939,
+      "longitude": 77.209021
+    }
+  },
+  {
+    "name": "Iraq",
+    "id": "IQ",
+    "emoji": "\ud83c\uddee\ud83c\uddf6",
+    "capital": "Baghdad",
+    "difficulty": 3,
+    "unicode": "U+1F1EE U+1F1F6",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IQ.svg",
+    "coordinates": {
+      "latitude": 33.312806,
+      "longitude": 44.361488
+    }
+  },
+  {
+    "name": "Iran",
+    "id": "IR",
+    "emoji": "\ud83c\uddee\ud83c\uddf7",
+    "capital": "Tehran",
+    "difficulty": 3,
+    "unicode": "U+1F1EE U+1F1F7",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IR.svg",
+    "coordinates": {
+      "latitude": 35.689198,
+      "longitude": 51.388974
+    }
+  },
+  {
+    "name": "Iceland",
+    "id": "IS",
+    "emoji": "\ud83c\uddee\ud83c\uddf8",
+    "capital": "Reykjavik",
+    "difficulty": 2,
+    "unicode": "U+1F1EE U+1F1F8",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IS.svg",
+    "coordinates": {
+      "latitude": 64.126521,
+      "longitude": -21.817439
+    }
+  },
+  {
+    "name": "Italy",
+    "id": "IT",
+    "emoji": "\ud83c\uddee\ud83c\uddf9",
+    "capital": "Rome",
+    "difficulty": 1,
+    "unicode": "U+1F1EE U+1F1F9",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IT.svg",
+    "coordinates": {
+      "latitude": 41.902784,
+      "longitude": 12.496366
+    }
+  },
+  {
+    "name": "Jamaica",
+    "id": "JM",
+    "emoji": "\ud83c\uddef\ud83c\uddf2",
+    "capital": "Kingston",
+    "difficulty": 3,
+    "unicode": "U+1F1EF U+1F1F2",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/JM.svg",
+    "coordinates": {
+      "latitude": 18.042327,
+      "longitude": -76.802893
+    }
+  },
+  {
+    "name": "Jordan",
+    "id": "JO",
+    "emoji": "\ud83c\uddef\ud83c\uddf4",
+    "capital": "Amman",
+    "difficulty": 4,
+    "unicode": "U+1F1EF U+1F1F4",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/JO.svg",
+    "coordinates": {
+      "latitude": 31.956578,
+      "longitude": 35.945695
+    }
+  },
+  {
+    "name": "Japan",
+    "id": "JP",
+    "emoji": "\ud83c\uddef\ud83c\uddf5",
+    "capital": "Tokyo",
+    "difficulty": 1,
+    "unicode": "U+1F1EF U+1F1F5",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/JP.svg",
+    "coordinates": {
+      "latitude": 35.709026,
+      "longitude": 139.731992
+    }
+  },
+  {
+    "name": "Kenya",
+    "id": "KE",
+    "emoji": "\ud83c\uddf0\ud83c\uddea",
+    "capital": "Nairobi",
+    "difficulty": 3,
+    "unicode": "U+1F1F0 U+1F1EA",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KE.svg",
+    "coordinates": {
+      "latitude": -1.292066,
+      "longitude": 36.821946
+    }
+  },
+  {
+    "name": "Kyrgyzstan",
+    "id": "KG",
+    "emoji": "\ud83c\uddf0\ud83c\uddec",
+    "capital": "Bishkek",
+    "difficulty": 4,
+    "unicode": "U+1F1F0 U+1F1EC",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KG.svg",
+    "coordinates": {
+      "latitude": 42.874621,
+      "longitude": 74.569762
+    }
+  },
+  {
+    "name": "Cambodia",
+    "id": "KH",
+    "emoji": "\ud83c\uddf0\ud83c\udded",
+    "capital": "Phnom Penh",
+    "difficulty": 3,
+    "unicode": "U+1F1F0 U+1F1ED",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KH.svg",
+    "coordinates": {
+      "latitude": 11.544873,
+      "longitude": 104.892167
+    }
+  },
+  {
+    "name": "Kiribati",
+    "id": "KI",
+    "emoji": "\ud83c\uddf0\ud83c\uddee",
+    "capital": "South Tarawa",
+    "difficulty": 5,
+    "unicode": "U+1F1F0 U+1F1EE",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KI.svg",
+    "coordinates": {
+      "latitude": 1.451817,
+      "longitude": 172.971662
+    }
+  },
+  {
+    "name": "Comoros",
+    "id": "KM",
+    "emoji": "\ud83c\uddf0\ud83c\uddf2",
+    "capital": "Moroni",
+    "difficulty": 5,
+    "unicode": "U+1F1F0 U+1F1F2",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KM.svg",
+    "coordinates": {
+      "latitude": -11.717216,
+      "longitude": 43.247315
+    }
+  },
+  {
+    "name": "St. Kitts & Nevis",
+    "id": "KN",
+    "emoji": "\ud83c\uddf0\ud83c\uddf3",
+    "capital": "Basseterre",
+    "difficulty": 5,
+    "unicode": "U+1F1F0 U+1F1F3",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KN.svg",
+    "coordinates": {
+      "latitude": 17.302606,
+      "longitude": -62.717692
+    }
+  },
+  {
+    "name": "North Korea",
+    "id": "KP",
+    "emoji": "\ud83c\uddf0\ud83c\uddf5",
+    "capital": "Pyongyang",
+    "difficulty": 3,
+    "unicode": "U+1F1F0 U+1F1F5",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KP.svg",
+    "coordinates": {
+      "latitude": 39.039219,
+      "longitude": 125.762524
+    }
+  },
+  {
+    "name": "South Korea",
+    "id": "KR",
+    "emoji": "\ud83c\uddf0\ud83c\uddf7",
+    "capital": "Seoul",
+    "difficulty": 1,
+    "unicode": "U+1F1F0 U+1F1F7",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KR.svg",
+    "coordinates": {
+      "latitude": 37.566535,
+      "longitude": 126.977969
+    }
+  },
+  {
+    "name": "Kuwait",
+    "id": "KW",
+    "emoji": "\ud83c\uddf0\ud83c\uddfc",
+    "capital": "Kuwait City",
+    "difficulty": 4,
+    "unicode": "U+1F1F0 U+1F1FC",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KW.svg",
+    "coordinates": {
+      "latitude": 29.375859,
+      "longitude": 47.977405
+    }
+  },
+  {
+    "name": "Kazakhstan",
+    "id": "KZ",
+    "emoji": "\ud83c\uddf0\ud83c\uddff",
+    "capital": "Astana",
+    "difficulty": 3,
+    "unicode": "U+1F1F0 U+1F1FF",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KZ.svg",
+    "coordinates": {
+      "latitude": 51.160523,
+      "longitude": 71.470356
+    }
+  },
+  {
+    "name": "Laos",
+    "id": "LA",
+    "emoji": "\ud83c\uddf1\ud83c\udde6",
+    "capital": "Vientiane",
+    "difficulty": 3,
+    "unicode": "U+1F1F1 U+1F1E6",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LA.svg",
+    "coordinates": {
+      "latitude": 17.975706,
+      "longitude": 102.633104
+    }
+  },
+  {
+    "name": "Lebanon",
+    "id": "LB",
+    "emoji": "\ud83c\uddf1\ud83c\udde7",
+    "capital": "Beirut",
+    "difficulty": 3,
+    "unicode": "U+1F1F1 U+1F1E7",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LB.svg",
+    "coordinates": {
+      "latitude": 33.888629,
+      "longitude": 35.495479
+    }
+  },
+  {
+    "name": "St. Lucia",
+    "id": "LC",
+    "emoji": "\ud83c\uddf1\ud83c\udde8",
+    "capital": "Castries",
+    "difficulty": 5,
+    "unicode": "U+1F1F1 U+1F1E8",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LC.svg",
+    "coordinates": {
+      "latitude": 14.010109,
+      "longitude": -60.987469
+    }
+  },
+  {
+    "name": "Liechtenstein",
+    "id": "LI",
+    "emoji": "\ud83c\uddf1\ud83c\uddee",
+    "capital": "Vaduz",
+    "difficulty": 4,
+    "unicode": "U+1F1F1 U+1F1EE",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LI.svg",
+    "coordinates": {
+      "latitude": 47.14103,
+      "longitude": 9.520928
+    }
+  },
+  {
+    "name": "Sri Lanka",
+    "id": "LK",
+    "emoji": "\ud83c\uddf1\ud83c\uddf0",
+    "capital": "Kotte",
+    "difficulty": 3,
+    "unicode": "U+1F1F1 U+1F1F0",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LK.svg",
+    "coordinates": {
+      "latitude": 6.89407,
+      "longitude": 79.902478
+    }
+  },
+  {
+    "name": "Liberia",
+    "id": "LR",
+    "emoji": "\ud83c\uddf1\ud83c\uddf7",
+    "capital": "Monrovia",
+    "difficulty": 4,
+    "unicode": "U+1F1F1 U+1F1F7",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LR.svg",
+    "coordinates": {
+      "latitude": 6.290743,
+      "longitude": -10.760524
+    }
+  },
+  {
+    "name": "Lesotho",
+    "id": "LS",
+    "emoji": "\ud83c\uddf1\ud83c\uddf8",
+    "capital": "Maseru",
+    "difficulty": 5,
+    "unicode": "U+1F1F1 U+1F1F8",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LS.svg",
+    "coordinates": {
+      "latitude": -29.363219,
+      "longitude": 27.51436
+    }
+  },
+  {
+    "name": "Lithuania",
+    "id": "LT",
+    "emoji": "\ud83c\uddf1\ud83c\uddf9",
+    "capital": "Vilnius",
+    "difficulty": 3,
+    "unicode": "U+1F1F1 U+1F1F9",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LT.svg",
+    "coordinates": {
+      "latitude": 54.687156,
+      "longitude": 25.279651
+    }
+  },
+  {
+    "name": "Luxembourg",
+    "id": "LU",
+    "emoji": "\ud83c\uddf1\ud83c\uddfa",
+    "capital": "Luxembourg",
+    "difficulty": 3,
+    "unicode": "U+1F1F1 U+1F1FA",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LU.svg",
+    "coordinates": {
+      "latitude": 49.611621,
+      "longitude": 6.131935
+    }
+  },
+  {
+    "name": "Latvia",
+    "id": "LV",
+    "emoji": "\ud83c\uddf1\ud83c\uddfb",
+    "capital": "Riga",
+    "difficulty": 3,
+    "unicode": "U+1F1F1 U+1F1FB",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LV.svg",
+    "coordinates": {
+      "latitude": 56.949649,
+      "longitude": 24.105186
+    }
+  },
+  {
+    "name": "Libya",
+    "id": "LY",
+    "emoji": "\ud83c\uddf1\ud83c\uddfe",
+    "capital": "Tripoli",
+    "difficulty": 3,
+    "unicode": "U+1F1F1 U+1F1FE",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LY.svg",
+    "coordinates": {
+      "latitude": 32.887209,
+      "longitude": 13.191338
+    }
+  },
+  {
+    "name": "Morocco",
+    "id": "MA",
+    "emoji": "\ud83c\uddf2\ud83c\udde6",
+    "capital": "Rabat",
+    "difficulty": 3,
+    "unicode": "U+1F1F2 U+1F1E6",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MA.svg",
+    "coordinates": {
+      "latitude": 33.97159,
+      "longitude": -6.849813
+    }
+  },
+  {
+    "name": "Monaco",
+    "id": "MC",
+    "emoji": "\ud83c\uddf2\ud83c\udde8",
+    "capital": "Monaco",
+    "difficulty": 3,
+    "unicode": "U+1F1F2 U+1F1E8",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MC.svg",
+    "coordinates": {
+      "latitude": 43.737411,
+      "longitude": 7.420816
+    }
+  },
+  {
+    "name": "Moldova",
+    "id": "MD",
+    "emoji": "\ud83c\uddf2\ud83c\udde9",
+    "capital": "Chisinau",
+    "difficulty": 3,
+    "unicode": "U+1F1F2 U+1F1E9",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MD.svg",
+    "coordinates": {
+      "latitude": 47.010453,
+      "longitude": 28.86381
+    }
+  },
+  {
+    "name": "Montenegro",
+    "id": "ME",
+    "emoji": "\ud83c\uddf2\ud83c\uddea",
+    "capital": "Podgorica",
+    "difficulty": 3,
+    "unicode": "U+1F1F2 U+1F1EA",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ME.svg",
+    "coordinates": {
+      "latitude": 42.43042,
+      "longitude": 19.259364
+    }
+  },
+  {
+    "name": "Madagascar",
+    "id": "MG",
+    "emoji": "\ud83c\uddf2\ud83c\uddec",
+    "capital": "Anatananarivo",
+    "difficulty": 3,
+    "unicode": "U+1F1F2 U+1F1EC",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MG.svg",
+    "coordinates": {
+      "latitude": -18.87919,
+      "longitude": 47.507905
+    }
+  },
+  {
+    "name": "Marshall Islands",
+    "id": "MH",
+    "emoji": "\ud83c\uddf2\ud83c\udded",
+    "capital": "Majuro",
+    "difficulty": 5,
+    "unicode": "U+1F1F2 U+1F1ED",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MH.svg",
+    "coordinates": {
+      "latitude": 7.116421,
+      "longitude": 171.185774
+    }
+  },
+  {
+    "name": "North Macedonia",
+    "id": "MK",
+    "emoji": "\ud83c\uddf2\ud83c\uddf0",
+    "capital": "Skopje",
+    "difficulty": 3,
+    "unicode": "U+1F1F2 U+1F1F0",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MK.svg",
+    "coordinates": {
+      "latitude": 41.997346,
+      "longitude": 21.427996
+    }
+  },
+  {
+    "name": "Mali",
+    "id": "ML",
+    "emoji": "\ud83c\uddf2\ud83c\uddf1",
+    "capital": "Bamako",
+    "difficulty": 4,
+    "unicode": "U+1F1F2 U+1F1F1",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ML.svg",
+    "coordinates": {
+      "latitude": 12.639232,
+      "longitude": -8.002889
+    }
+  },
+  {
+    "name": "Myanmar",
+    "id": "MM",
+    "emoji": "\ud83c\uddf2\ud83c\uddf2",
+    "capital": "Naypyidaw",
+    "difficulty": 4,
+    "unicode": "U+1F1F2 U+1F1F2",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MM.svg",
+    "coordinates": {
+      "latitude": 19.763306,
+      "longitude": 96.07851
+    }
+  },
+  {
+    "name": "Mongolia",
+    "id": "MN",
+    "emoji": "\ud83c\uddf2\ud83c\uddf3",
+    "capital": "Ulaanbaatar",
+    "difficulty": 2,
+    "unicode": "U+1F1F2 U+1F1F3",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MN.svg",
+    "coordinates": {
+      "latitude": 47.886399,
+      "longitude": 106.905744
+    }
+  },
+  {
+    "name": "Mauritania",
+    "id": "MR",
+    "emoji": "\ud83c\uddf2\ud83c\uddf7",
+    "capital": "Nouakchott",
+    "difficulty": 5,
+    "unicode": "U+1F1F2 U+1F1F7",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MR.svg",
+    "coordinates": {
+      "latitude": 18.07353,
+      "longitude": -15.958237
+    }
+  },
+  {
+    "name": "Malta",
+    "id": "MT",
+    "emoji": "\ud83c\uddf2\ud83c\uddf9",
+    "capital": "Valletta",
+    "difficulty": 3,
+    "unicode": "U+1F1F2 U+1F1F9",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MT.svg",
+    "coordinates": {
+      "latitude": 35.898909,
+      "longitude": 14.514553
+    }
+  },
+  {
+    "name": "Mauritius",
+    "id": "MU",
+    "emoji": "\ud83c\uddf2\ud83c\uddfa",
+    "capital": "Port Louis",
+    "difficulty": 5,
+    "unicode": "U+1F1F2 U+1F1FA",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MU.svg",
+    "coordinates": {
+      "latitude": -20.166896,
+      "longitude": 57.502332
+    }
+  },
+  {
+    "name": "Maldives",
+    "id": "MV",
+    "emoji": "\ud83c\uddf2\ud83c\uddfb",
+    "capital": "Male",
+    "difficulty": 4,
+    "unicode": "U+1F1F2 U+1F1FB",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MV.svg",
+    "coordinates": {
+      "latitude": 4.175496,
+      "longitude": 73.509347
+    }
+  },
+  {
+    "name": "Malawi",
+    "id": "MW",
+    "emoji": "\ud83c\uddf2\ud83c\uddfc",
+    "capital": "Lilongwe",
+    "difficulty": 5,
+    "unicode": "U+1F1F2 U+1F1FC",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MW.svg",
+    "coordinates": {
+      "latitude": -13.962612,
+      "longitude": 33.774119
+    }
+  },
+  {
+    "name": "Mexico",
+    "id": "MX",
+    "emoji": "\ud83c\uddf2\ud83c\uddfd",
+    "capital": "Mexico City",
+    "difficulty": 1,
+    "unicode": "U+1F1F2 U+1F1FD",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MX.svg",
+    "coordinates": {
+      "latitude": 19.432608,
+      "longitude": -99.133208
+    }
+  },
+  {
+    "name": "Malaysia",
+    "id": "MY",
+    "emoji": "\ud83c\uddf2\ud83c\uddfe",
+    "capital": "Kuala Lumpur",
+    "difficulty": 2,
+    "unicode": "U+1F1F2 U+1F1FE",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MY.svg",
+    "coordinates": {
+      "latitude": 3.139003,
+      "longitude": 101.686855
+    }
+  },
+  {
+    "name": "Mozambique",
+    "id": "MZ",
+    "emoji": "\ud83c\uddf2\ud83c\uddff",
+    "capital": "Maputo",
+    "difficulty": 4,
+    "unicode": "U+1F1F2 U+1F1FF",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MZ.svg",
+    "coordinates": {
+      "latitude": -25.891968,
+      "longitude": 32.605135
+    }
+  },
+  {
+    "name": "Namibia",
+    "id": "NA",
+    "emoji": "\ud83c\uddf3\ud83c\udde6",
+    "capital": "Windhoek",
+    "difficulty": 4,
+    "unicode": "U+1F1F3 U+1F1E6",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NA.svg",
+    "coordinates": {
+      "latitude": -22.560881,
+      "longitude": 17.065755
+    }
+  },
+  {
+    "name": "Niger",
+    "id": "NE",
+    "emoji": "\ud83c\uddf3\ud83c\uddea",
+    "capital": "Niamey",
+    "difficulty": 4,
+    "unicode": "U+1F1F3 U+1F1EA",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NE.svg",
+    "coordinates": {
+      "latitude": 13.511596,
+      "longitude": 2.125385
+    }
+  },
+  {
+    "name": "Nigeria",
+    "id": "NG",
+    "emoji": "\ud83c\uddf3\ud83c\uddec",
+    "capital": "Abuja",
+    "difficulty": 3,
+    "unicode": "U+1F1F3 U+1F1EC",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NG.svg",
+    "coordinates": {
+      "latitude": 9.076479,
+      "longitude": 7.398574
+    }
+  },
+  {
+    "name": "Nicaragua",
+    "id": "NI",
+    "emoji": "\ud83c\uddf3\ud83c\uddee",
+    "capital": "Managua",
+    "difficulty": 4,
+    "unicode": "U+1F1F3 U+1F1EE",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NI.svg",
+    "coordinates": {
+      "latitude": 12.114993,
+      "longitude": -86.236174
+    }
+  },
+  {
+    "name": "Netherlands",
+    "id": "NL",
+    "emoji": "\ud83c\uddf3\ud83c\uddf1",
+    "capital": "Amsterdam",
+    "difficulty": 1,
+    "unicode": "U+1F1F3 U+1F1F1",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NL.svg",
+    "coordinates": {
+      "latitude": 52.370216,
+      "longitude": 4.895168
+    }
+  },
+  {
+    "name": "Norway",
+    "id": "NO",
+    "emoji": "\ud83c\uddf3\ud83c\uddf4",
+    "capital": "Oslo",
+    "difficulty": 2,
+    "unicode": "U+1F1F3 U+1F1F4",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NO.svg",
+    "coordinates": {
+      "latitude": 59.913869,
+      "longitude": 10.752245
+    }
+  },
+  {
+    "name": "Nepal",
+    "id": "NP",
+    "emoji": "\ud83c\uddf3\ud83c\uddf5",
+    "capital": "Kathmandu",
+    "difficulty": 3,
+    "unicode": "U+1F1F3 U+1F1F5",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NP.svg",
+    "coordinates": {
+      "latitude": 27.717245,
+      "longitude": 85.323961
+    }
+  },
+  {
+    "name": "Nauru",
+    "id": "NR",
+    "emoji": "\ud83c\uddf3\ud83c\uddf7",
+    "capital": "Yaren",
+    "difficulty": 5,
+    "unicode": "U+1F1F3 U+1F1F7",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NR.svg",
+    "coordinates": {
+      "latitude": -0.546686,
+      "longitude": 166.921091
+    }
+  },
+  {
+    "name": "New Zealand",
+    "id": "NZ",
+    "emoji": "\ud83c\uddf3\ud83c\uddff",
+    "capital": "Wellington",
+    "difficulty": 1,
+    "unicode": "U+1F1F3 U+1F1FF",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NZ.svg",
+    "coordinates": {
+      "latitude": -41.28646,
+      "longitude": 174.776236
+    }
+  },
+  {
+    "name": "Oman",
+    "id": "OM",
+    "emoji": "\ud83c\uddf4\ud83c\uddf2",
+    "capital": "Muscat",
+    "difficulty": 3,
+    "unicode": "U+1F1F4 U+1F1F2",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/OM.svg",
+    "coordinates": {
+      "latitude": 23.58589,
+      "longitude": 58.405923
+    }
+  },
+  {
+    "name": "Panama",
+    "id": "PA",
+    "emoji": "\ud83c\uddf5\ud83c\udde6",
+    "capital": "Panama City",
+    "difficulty": 3,
+    "unicode": "U+1F1F5 U+1F1E6",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PA.svg",
+    "coordinates": {
+      "latitude": 9.101179,
+      "longitude": -79.402864
+    }
+  },
+  {
+    "name": "Peru",
+    "id": "PE",
+    "emoji": "\ud83c\uddf5\ud83c\uddea",
+    "capital": "Lima",
+    "difficulty": 3,
+    "unicode": "U+1F1F5 U+1F1EA",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PE.svg",
+    "coordinates": {
+      "latitude": -12.046374,
+      "longitude": -77.042793
+    }
+  },
+  {
+    "name": "Papua New Guinea",
+    "id": "PG",
+    "emoji": "\ud83c\uddf5\ud83c\uddec",
+    "capital": "Port Moresby",
+    "difficulty": 4,
+    "unicode": "U+1F1F5 U+1F1EC",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PG.svg",
+    "coordinates": {
+      "latitude": -9.4438,
+      "longitude": 147.180267
+    }
+  },
+  {
+    "name": "Philippines",
+    "id": "PH",
+    "emoji": "\ud83c\uddf5\ud83c\udded",
+    "capital": "Manila",
+    "difficulty": 2,
+    "unicode": "U+1F1F5 U+1F1ED",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PH.svg",
+    "coordinates": {
+      "latitude": 14.599512,
+      "longitude": 120.98422
+    }
+  },
+  {
+    "name": "Pakistan",
+    "id": "PK",
+    "emoji": "\ud83c\uddf5\ud83c\uddf0",
+    "capital": "Islamabad",
+    "difficulty": 2,
+    "unicode": "U+1F1F5 U+1F1F0",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PK.svg",
+    "coordinates": {
+      "latitude": 33.729388,
+      "longitude": 73.093146
+    }
+  },
+  {
+    "name": "Poland",
+    "id": "PL",
+    "emoji": "\ud83c\uddf5\ud83c\uddf1",
+    "capital": "Warsaw",
+    "difficulty": 2,
+    "unicode": "U+1F1F5 U+1F1F1",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PL.svg",
+    "coordinates": {
+      "latitude": 52.229676,
+      "longitude": 21.012229
+    }
+  },
+  {
+    "name": "Portugal",
+    "id": "PT",
+    "emoji": "\ud83c\uddf5\ud83c\uddf9",
+    "capital": "Lisbon",
+    "difficulty": 1,
+    "unicode": "U+1F1F5 U+1F1F9",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PT.svg",
+    "coordinates": {
+      "latitude": 38.722252,
+      "longitude": -9.139337
+    }
+  },
+  {
+    "name": "Palau",
+    "id": "PW",
+    "emoji": "\ud83c\uddf5\ud83c\uddfc",
+    "capital": "Ngerumud",
+    "difficulty": 5,
+    "unicode": "U+1F1F5 U+1F1FC",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PW.svg",
+    "coordinates": {
+      "latitude": 7.500384,
+      "longitude": 134.624289
+    }
+  },
+  {
+    "name": "Paraguay",
+    "id": "PY",
+    "emoji": "\ud83c\uddf5\ud83c\uddfe",
+    "capital": "Asuncion",
+    "difficulty": 3,
+    "unicode": "U+1F1F5 U+1F1FE",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PY.svg",
+    "coordinates": {
+      "latitude": -25.26374,
+      "longitude": -57.575926
+    }
+  },
+  {
+    "name": "Qatar",
+    "id": "QA",
+    "emoji": "\ud83c\uddf6\ud83c\udde6",
+    "capital": "Doha",
+    "difficulty": 2,
+    "unicode": "U+1F1F6 U+1F1E6",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/QA.svg",
+    "coordinates": {
+      "latitude": 25.285447,
+      "longitude": 51.53104
+    }
+  },
+  {
+    "name": "Romania",
+    "id": "RO",
+    "emoji": "\ud83c\uddf7\ud83c\uddf4",
+    "capital": "Bucharest",
+    "difficulty": 2,
+    "unicode": "U+1F1F7 U+1F1F4",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/RO.svg",
+    "coordinates": {
+      "latitude": 44.426767,
+      "longitude": 26.102538
+    }
+  },
+  {
+    "name": "Serbia",
+    "id": "RS",
+    "emoji": "\ud83c\uddf7\ud83c\uddf8",
+    "capital": "Belgrade",
+    "difficulty": 2,
+    "unicode": "U+1F1F7 U+1F1F8",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/RS.svg",
+    "coordinates": {
+      "latitude": 44.786568,
+      "longitude": 20.448922
+    }
+  },
+  {
+    "name": "Russia",
+    "id": "RU",
+    "emoji": "\ud83c\uddf7\ud83c\uddfa",
+    "capital": "Moscow",
+    "difficulty": 1,
+    "unicode": "U+1F1F7 U+1F1FA",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/RU.svg",
+    "coordinates": {
+      "latitude": 55.755826,
+      "longitude": 37.6173
+    }
+  },
+  {
+    "name": "Rwanda",
+    "id": "RW",
+    "emoji": "\ud83c\uddf7\ud83c\uddfc",
+    "capital": "Kigali",
+    "difficulty": 4,
+    "unicode": "U+1F1F7 U+1F1FC",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/RW.svg",
+    "coordinates": {
+      "latitude": -1.957875,
+      "longitude": 30.112735
+    }
+  },
+  {
+    "name": "Saudi Arabia",
+    "id": "SA",
+    "emoji": "\ud83c\uddf8\ud83c\udde6",
+    "capital": "Riyadh",
+    "difficulty": 2,
+    "unicode": "U+1F1F8 U+1F1E6",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SA.svg",
+    "coordinates": {
+      "latitude": 24.749403,
+      "longitude": 46.902838
+    }
+  },
+  {
+    "name": "Solomon Islands",
+    "id": "SB",
+    "emoji": "\ud83c\uddf8\ud83c\udde7",
+    "capital": "Honiara",
+    "difficulty": 5,
+    "unicode": "U+1F1F8 U+1F1E7",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SB.svg",
+    "coordinates": {
+      "latitude": -9.445638,
+      "longitude": 159.9729
+    }
+  },
+  {
+    "name": "Seychelles",
+    "id": "SC",
+    "emoji": "\ud83c\uddf8\ud83c\udde8",
+    "capital": "Victoria",
+    "difficulty": 4,
+    "unicode": "U+1F1F8 U+1F1E8",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SC.svg",
+    "coordinates": {
+      "latitude": -4.619143,
+      "longitude": 55.451315
+    }
+  },
+  {
+    "name": "Sudan",
+    "id": "SD",
+    "emoji": "\ud83c\uddf8\ud83c\udde9",
+    "capital": "Khartoum",
+    "difficulty": 3,
+    "unicode": "U+1F1F8 U+1F1E9",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SD.svg",
+    "coordinates": {
+      "latitude": 15.500654,
+      "longitude": 32.559899
+    }
+  },
+  {
+    "name": "Sweden",
+    "id": "SE",
+    "emoji": "\ud83c\uddf8\ud83c\uddea",
+    "capital": "Stockholm",
+    "difficulty": 2,
+    "unicode": "U+1F1F8 U+1F1EA",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SE.svg",
+    "coordinates": {
+      "latitude": 59.329323,
+      "longitude": 18.068581
+    }
+  },
+  {
+    "name": "Singapore",
+    "id": "SG",
+    "emoji": "\ud83c\uddf8\ud83c\uddec",
+    "capital": "Singapore",
+    "difficulty": 3,
+    "unicode": "U+1F1F8 U+1F1EC",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SG.svg",
+    "coordinates": {
+      "latitude": 1.280095,
+      "longitude": 103.850949
+    }
+  },
+  {
+    "name": "Slovenia",
+    "id": "SI",
+    "emoji": "\ud83c\uddf8\ud83c\uddee",
+    "capital": "Ljubljana",
+    "difficulty": 3,
+    "unicode": "U+1F1F8 U+1F1EE",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SI.svg",
+    "coordinates": {
+      "latitude": 46.056947,
+      "longitude": 14.505751
+    }
+  },
+  {
+    "name": "Slovakia",
+    "id": "SK",
+    "emoji": "\ud83c\uddf8\ud83c\uddf0",
+    "capital": "Bratislava",
+    "difficulty": 3,
+    "unicode": "U+1F1F8 U+1F1F0",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SK.svg",
+    "coordinates": {
+      "latitude": 48.145892,
+      "longitude": 17.107137
+    }
+  },
+  {
+    "name": "Sierra Leone",
+    "id": "SL",
+    "emoji": "\ud83c\uddf8\ud83c\uddf1",
+    "capital": "Freetown",
+    "difficulty": 5,
+    "unicode": "U+1F1F8 U+1F1F1",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SL.svg",
+    "coordinates": {
+      "latitude": 8.465677,
+      "longitude": -13.231722
+    }
+  },
+  {
+    "name": "San Marino",
+    "id": "SM",
+    "emoji": "\ud83c\uddf8\ud83c\uddf2",
+    "capital": "San Marino",
+    "difficulty": 4,
+    "unicode": "U+1F1F8 U+1F1F2",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SM.svg",
+    "coordinates": {
+      "latitude": 43.935591,
+      "longitude": 12.447281
+    }
+  },
+  {
+    "name": "Senegal",
+    "id": "SN",
+    "emoji": "\ud83c\uddf8\ud83c\uddf3",
+    "capital": "Dakar",
+    "difficulty": 4,
+    "unicode": "U+1F1F8 U+1F1F3",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SN.svg",
+    "coordinates": {
+      "latitude": 14.764504,
+      "longitude": -17.366029
+    }
+  },
+  {
+    "name": "Somalia",
+    "id": "SO",
+    "emoji": "\ud83c\uddf8\ud83c\uddf4",
+    "capital": "Mogadishu",
+    "difficulty": 4,
+    "unicode": "U+1F1F8 U+1F1F4",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SO.svg",
+    "coordinates": {
+      "latitude": 2.046934,
+      "longitude": 45.318162
+    }
+  },
+  {
+    "name": "Suriname",
+    "id": "SR",
+    "emoji": "\ud83c\uddf8\ud83c\uddf7",
+    "capital": "Paramaribo",
+    "difficulty": 4,
+    "unicode": "U+1F1F8 U+1F1F7",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SR.svg",
+    "coordinates": {
+      "latitude": 5.852036,
+      "longitude": -55.203828
+    }
+  },
+  {
+    "name": "South Sudan",
+    "id": "SS",
+    "emoji": "\ud83c\uddf8\ud83c\uddf8",
+    "capital": "Juba",
+    "difficulty": 4,
+    "unicode": "U+1F1F8 U+1F1F8",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SS.svg",
+    "coordinates": {
+      "latitude": 4.859363,
+      "longitude": 31.57125
+    }
+  },
+  {
+    "name": "S\u00e3o Tom\u00e9 & Pr\u00edncipe",
+    "id": "ST",
+    "emoji": "\ud83c\uddf8\ud83c\uddf9",
+    "capital": "Sao Tome",
+    "difficulty": 5,
+    "unicode": "U+1F1F8 U+1F1F9",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ST.svg",
+    "coordinates": {
+      "latitude": 0.330192,
+      "longitude": 6.733343
+    }
+  },
+  {
+    "name": "El Salvador",
+    "id": "SV",
+    "emoji": "\ud83c\uddf8\ud83c\uddfb",
+    "capital": "San Salvador",
+    "difficulty": 4,
+    "unicode": "U+1F1F8 U+1F1FB",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SV.svg",
+    "coordinates": {
+      "latitude": 13.69294,
+      "longitude": -89.218191
+    }
+  },
+  {
+    "name": "Syria",
+    "id": "SY",
+    "emoji": "\ud83c\uddf8\ud83c\uddfe",
+    "capital": "Damascus",
+    "difficulty": 3,
+    "unicode": "U+1F1F8 U+1F1FE",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SY.svg",
+    "coordinates": {
+      "latitude": 33.513807,
+      "longitude": 36.276528
+    }
+  },
+  {
+    "name": "Eswatini",
+    "id": "SZ",
+    "emoji": "\ud83c\uddf8\ud83c\uddff",
+    "capital": "Mbabane",
+    "difficulty": 4,
+    "unicode": "U+1F1F8 U+1F1FF",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SZ.svg",
+    "coordinates": {
+      "latitude": -26.305448,
+      "longitude": 31.136672
+    }
+  },
+  {
+    "name": "Chad",
+    "id": "TD",
+    "emoji": "\ud83c\uddf9\ud83c\udde9",
+    "capital": "N'Djamnea",
+    "difficulty": 4,
+    "unicode": "U+1F1F9 U+1F1E9",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TD.svg",
+    "coordinates": {
+      "latitude": 12.134846,
+      "longitude": 15.055742
+    }
+  },
+  {
+    "name": "Togo",
+    "id": "TG",
+    "emoji": "\ud83c\uddf9\ud83c\uddec",
+    "capital": "Lome",
+    "difficulty": 4,
+    "unicode": "U+1F1F9 U+1F1EC",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TG.svg",
+    "coordinates": {
+      "latitude": 6.172497,
+      "longitude": 1.231362
+    }
+  },
+  {
+    "name": "Thailand",
+    "id": "TH",
+    "emoji": "\ud83c\uddf9\ud83c\udded",
+    "capital": "Bangkok",
+    "difficulty": 2,
+    "unicode": "U+1F1F9 U+1F1ED",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TH.svg",
+    "coordinates": {
+      "latitude": 13.756331,
+      "longitude": 100.501765
+    }
+  },
+  {
+    "name": "Tajikistan",
+    "id": "TJ",
+    "emoji": "\ud83c\uddf9\ud83c\uddef",
+    "capital": "Dushanbe",
+    "difficulty": 4,
+    "unicode": "U+1F1F9 U+1F1EF",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TJ.svg",
+    "coordinates": {
+      "latitude": 38.559772,
+      "longitude": 68.787038
+    }
+  },
+  {
+    "name": "Timor-Leste",
+    "id": "TL",
+    "emoji": "\ud83c\uddf9\ud83c\uddf1",
+    "capital": "Dili",
+    "difficulty": 5,
+    "unicode": "U+1F1F9 U+1F1F1",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TL.svg",
+    "coordinates": {
+      "latitude": -8.556856,
+      "longitude": 125.560314
+    }
+  },
+  {
+    "name": "Turkmenistan",
+    "id": "TM",
+    "emoji": "\ud83c\uddf9\ud83c\uddf2",
+    "capital": "Ashgabat",
+    "difficulty": 4,
+    "unicode": "U+1F1F9 U+1F1F2",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TM.svg",
+    "coordinates": {
+      "latitude": 37.960077,
+      "longitude": 58.326063
+    }
+  },
+  {
+    "name": "Tunisia",
+    "id": "TN",
+    "emoji": "\ud83c\uddf9\ud83c\uddf3",
+    "capital": "Tunis",
+    "difficulty": 3,
+    "unicode": "U+1F1F9 U+1F1F3",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TN.svg",
+    "coordinates": {
+      "latitude": 36.806495,
+      "longitude": 10.181532
+    }
+  },
+  {
+    "name": "Tonga",
+    "id": "TO",
+    "emoji": "\ud83c\uddf9\ud83c\uddf4",
+    "capital": "Nuku'alofa",
+    "difficulty": 5,
+    "unicode": "U+1F1F9 U+1F1F4",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TO.svg",
+    "coordinates": {
+      "latitude": -21.139342,
+      "longitude": -175.204947
+    }
+  },
+  {
+    "name": "Turkey",
+    "id": "TR",
+    "emoji": "\ud83c\uddf9\ud83c\uddf7",
+    "capital": "Ankara",
+    "difficulty": 1,
+    "unicode": "U+1F1F9 U+1F1F7",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TR.svg",
+    "coordinates": {
+      "latitude": 39.933364,
+      "longitude": 32.859742
+    }
+  },
+  {
+    "name": "Trinidad & Tobago",
+    "id": "TT",
+    "emoji": "\ud83c\uddf9\ud83c\uddf9",
+    "capital": "Port of Spain",
+    "difficulty": 4,
+    "unicode": "U+1F1F9 U+1F1F9",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TT.svg",
+    "coordinates": {
+      "latitude": 10.654901,
+      "longitude": -61.501926
+    }
+  },
+  {
+    "name": "Tuvalu",
+    "id": "TV",
+    "emoji": "\ud83c\uddf9\ud83c\uddfb",
+    "capital": "Funafuti",
+    "difficulty": 5,
+    "unicode": "U+1F1F9 U+1F1FB",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TV.svg",
+    "coordinates": {
+      "latitude": -8.520066,
+      "longitude": 179.198128
+    }
+  },
+  {
+    "name": "Tanzania",
+    "id": "TZ",
+    "emoji": "\ud83c\uddf9\ud83c\uddff",
+    "capital": "Dodoma",
+    "difficulty": 4,
+    "unicode": "U+1F1F9 U+1F1FF",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TZ.svg",
+    "coordinates": {
+      "latitude": -6.162959,
+      "longitude": 35.751607
+    }
+  },
+  {
+    "name": "Ukraine",
+    "id": "UA",
+    "emoji": "\ud83c\uddfa\ud83c\udde6",
+    "capital": "Kyiv",
+    "difficulty": 2,
+    "unicode": "U+1F1FA U+1F1E6",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/UA.svg",
+    "coordinates": {
+      "latitude": 50.4501,
+      "longitude": 30.5234
+    }
+  },
+  {
+    "name": "Uganda",
+    "id": "UG",
+    "emoji": "\ud83c\uddfa\ud83c\uddec",
+    "capital": "Kampala",
+    "difficulty": 4,
+    "unicode": "U+1F1FA U+1F1EC",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/UG.svg",
+    "coordinates": {
+      "latitude": 0.347596,
+      "longitude": 32.58252
+    }
+  },
+  {
+    "name": "United States",
+    "id": "US",
+    "emoji": "\ud83c\uddfa\ud83c\uddf8",
+    "capital": "Washington D.C.",
+    "difficulty": 1,
+    "unicode": "U+1F1FA U+1F1F8",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
+    "coordinates": {
+      "latitude": 38.907192,
+      "longitude": -77.036871
+    }
+  },
+  {
+    "name": "Uruguay",
+    "id": "UY",
+    "emoji": "\ud83c\uddfa\ud83c\uddfe",
+    "capital": "Montevideo",
+    "difficulty": 2,
+    "unicode": "U+1F1FA U+1F1FE",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/UY.svg",
+    "coordinates": {
+      "latitude": -34.901113,
+      "longitude": -56.164531
+    }
+  },
+  {
+    "name": "Uzbekistan",
+    "id": "UZ",
+    "emoji": "\ud83c\uddfa\ud83c\uddff",
+    "capital": "Tashkent",
+    "difficulty": 4,
+    "unicode": "U+1F1FA U+1F1FF",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/UZ.svg",
+    "coordinates": {
+      "latitude": 41.299496,
+      "longitude": 69.240073
+    }
+  },
+  {
+    "name": "Vatican City",
+    "id": "VA",
+    "emoji": "\ud83c\uddfb\ud83c\udde6",
+    "capital": "Vatican City",
+    "difficulty": 3,
+    "unicode": "U+1F1FB U+1F1E6",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/VA.svg",
+    "coordinates": {
+      "latitude": 41.902179,
+      "longitude": 12.453601
+    }
+  },
+  {
+    "name": "St. Vincent & Grenadines",
+    "id": "VC",
+    "emoji": "\ud83c\uddfb\ud83c\udde8",
+    "capital": "Kingstown",
+    "difficulty": 5,
+    "unicode": "U+1F1FB U+1F1E8",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/VC.svg",
+    "coordinates": {
+      "latitude": 13.160025,
+      "longitude": -61.224816
+    }
+  },
+  {
+    "name": "Venezuela",
+    "id": "VE",
+    "emoji": "\ud83c\uddfb\ud83c\uddea",
+    "capital": "Caracas",
+    "difficulty": 3,
+    "unicode": "U+1F1FB U+1F1EA",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/VE.svg",
+    "coordinates": {
+      "latitude": 10.480594,
+      "longitude": -66.903606
+    }
+  },
+  {
+    "name": "Vietnam",
+    "id": "VN",
+    "emoji": "\ud83c\uddfb\ud83c\uddf3",
+    "capital": "Hanoi",
+    "difficulty": 2,
+    "unicode": "U+1F1FB U+1F1F3",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/VN.svg",
+    "coordinates": {
+      "latitude": 21.027764,
+      "longitude": 105.83416
+    }
+  },
+  {
+    "name": "Vanuatu",
+    "id": "VU",
+    "emoji": "\ud83c\uddfb\ud83c\uddfa",
+    "capital": "Port Vila",
+    "difficulty": 5,
+    "unicode": "U+1F1FB U+1F1FA",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/VU.svg",
+    "coordinates": {
+      "latitude": -17.733251,
+      "longitude": 168.327325
+    }
+  },
+  {
+    "name": "Samoa",
+    "id": "WS",
+    "emoji": "\ud83c\uddfc\ud83c\uddf8",
+    "capital": "Apia",
+    "difficulty": 5,
+    "unicode": "U+1F1FC U+1F1F8",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/WS.svg",
+    "coordinates": {
+      "latitude": -13.850696,
+      "longitude": -171.751355
+    }
+  },
+  {
+    "name": "Yemen",
+    "id": "YE",
+    "emoji": "\ud83c\uddfe\ud83c\uddea",
+    "capital": "Sana'a",
+    "difficulty": 3,
+    "unicode": "U+1F1FE U+1F1EA",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/YE.svg",
+    "coordinates": {
+      "latitude": 15.369445,
+      "longitude": 44.191007
+    }
+  },
+  {
+    "name": "South Africa",
+    "id": "ZA",
+    "emoji": "\ud83c\uddff\ud83c\udde6",
+    "capital": "Cape Town",
+    "difficulty": 1,
+    "unicode": "U+1F1FF U+1F1E6",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ZA.svg",
+    "coordinates": {
+      "latitude": -25.747868,
+      "longitude": 28.229271
+    }
+  },
+  {
+    "name": "Zambia",
+    "id": "ZM",
+    "emoji": "\ud83c\uddff\ud83c\uddf2",
+    "capital": "Lusaka",
+    "difficulty": 4,
+    "unicode": "U+1F1FF U+1F1F2",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ZM.svg",
+    "coordinates": {
+      "latitude": -15.387526,
+      "longitude": 28.322817
+    }
+  },
+  {
+    "name": "Zimbabwe",
+    "id": "ZW",
+    "emoji": "\ud83c\uddff\ud83c\uddfc",
+    "capital": "Harare",
+    "difficulty": 3,
+    "unicode": "U+1F1FF U+1F1FC",
+    "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ZW.svg",
+    "coordinates": {
+      "latitude": -17.825166,
+      "longitude": 31.03351
+    }
   }
 ]

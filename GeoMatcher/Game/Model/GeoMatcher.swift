@@ -33,8 +33,10 @@ struct GeoMatcher {
     
     /// The current score.
     private(set) var score: Double = 0
-    /// The last score increment, 0 if never changed.
+    /// The last score increment before multiplier, 0 if never changed.
     private(set) var lastScore: Double = 0
+    /// The last score multiplier
+    private(set) var lastMultiplier: Int = 0
     /// A `Bool` that is `true` if the game has ended.
     private(set) var hasEnded: Bool = false
     
@@ -70,8 +72,9 @@ struct GeoMatcher {
                 if cards[chosenIndex].checkMatching(with: cards[faceUpIndex]) {
                     cards[chosenIndex].isMatched = true
                     cards[faceUpIndex].isMatched = true
-                    lastScore = (10 + 10 * min(cards[chosenIndex].bonusTimePercentage, cards[faceUpIndex].bonusTimePercentage)) * (Double)(cards[chosenIndex].country.difficulty)
-                    score += lastScore
+                    lastScore = 10 + 10 * min(cards[chosenIndex].bonusTimePercentage, cards[faceUpIndex].bonusTimePercentage)
+                    lastMultiplier = cards[chosenIndex].country.difficulty
+                    score += lastScore * (Double)(lastMultiplier)
                 }
             } else {
                 indexOfOnlyFaceUpCard = chosenIndex
@@ -120,6 +123,7 @@ struct GeoMatcher {
     mutating func restart() {
         score = 0
         lastScore = 0
+        lastMultiplier = 0
         cards = []
         hasEnded = false
 

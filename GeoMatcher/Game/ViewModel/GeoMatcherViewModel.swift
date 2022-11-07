@@ -26,9 +26,14 @@ final class GeoMatcherViewModel: ObservableObject {
         game.score
     }
     
-    /// The last score increment, 0 if never changed.
+    /// The last score increment before multiplier, 0 if never changed.
     var lastScore: Double {
         game.lastScore
+    }
+    
+    /// The last score multiplier
+    var lastMultiplier: Int {
+        game.lastMultiplier
     }
     
     /// Whether or not the game has ended.

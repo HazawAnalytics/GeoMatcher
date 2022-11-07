@@ -15,7 +15,7 @@ struct ScoreView: View {
         VStack {
             Text("Score: \(game.score, specifier: "%.2f")")
             if game.lastScore > 0 {
-                Text(" +\(game.lastScore, specifier: "%.2f")  \(bonusTextOf(game.lastScore))")
+                Text(" +\(game.lastScore, specifier: "%.2f")×\(game.lastMultiplier) \(bonusTextOf(game.lastScore))")
                     .transition(AnyTransition.asymmetric(insertion: .slide, removal: .opacity))
                     .foregroundColor(colorOf(game.lastScore))
             } else {
